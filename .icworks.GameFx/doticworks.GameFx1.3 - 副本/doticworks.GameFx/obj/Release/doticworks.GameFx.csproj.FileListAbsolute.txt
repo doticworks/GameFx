@@ -1,0 +1,10 @@
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\doticworks.GameFx\obj\Release\doticworks.GameFx.csprojResolveAssemblyReference.cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\doticworks.GameFx\obj\Release\.icworks.GameFx.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\doticworks.GameFx\bin\Release\.icworks.GameFx.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\doticworks.GameFx\bin\Release\SharpDX.Direct2D1.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\doticworks.GameFx\bin\Release\SharpDX.DirectInput.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\doticworks.GameFx\bin\Release\SharpDX.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\doticworks.GameFx\bin\Release\SharpDX.DXGI.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\doticworks.GameFx\bin\Release\FarseerPhysics.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\doticworks.GameFx\obj\Release\doticworks.GameFx.WIN.InputBoxF.resources
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\doticworks.GameFx\obj\Release\doticworks.GameFx.csproj.GenerateResource.Cache

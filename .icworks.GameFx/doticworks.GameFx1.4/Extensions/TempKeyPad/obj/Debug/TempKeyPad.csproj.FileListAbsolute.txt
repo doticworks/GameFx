@@ -1,0 +1,28 @@
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\.icworks.GameFx.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\SharpDX.Direct2D1.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\SharpDX.DXGI.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\SharpDX.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\SharpDX.Direct3D11.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\.icworks.GameFx.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\obj\Debug\TempKeyPad.csprojResolveAssemblyReference.cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\obj\Debug\TempKeyPad.MainForm.resources
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\obj\Debug\TempKeyPad.csproj.GenerateResource.Cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\TempKeyPad.ic.exe.config
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\TempKeyPad.ic.exe
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\TempKeyPad.ic.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\obj\Debug\TempKeyPad.ic.exe
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\obj\Debug\TempKeyPad.ic.pdb
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\TempKeyPad.ic.exe.config
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\TempKeyPad.ic.exe
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\TempKeyPad.ic.pdb
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\.icworks.GameFx.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\SharpDX.Direct2D1.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\SharpDX.DXGI.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\SharpDX.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\SharpDX.Direct3D11.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\.icworks.GameFx.pdb
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\obj\Debug\TempKeyPad.csprojResolveAssemblyReference.cache
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\obj\Debug\TempKeyPad.MainForm.resources
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\obj\Debug\TempKeyPad.csproj.GenerateResource.Cache
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\obj\Debug\TempKeyPad.ic.exe
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\obj\Debug\TempKeyPad.ic.pdb

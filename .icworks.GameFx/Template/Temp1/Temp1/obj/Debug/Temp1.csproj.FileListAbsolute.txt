@@ -1,0 +1,9 @@
+D:\TAS   MFC\CSHARP\.icworks.GameFx\Template\Temp1\Temp1\bin\Debug\.icworks.GameFx.dll
+D:\TAS   MFC\CSHARP\.icworks.GameFx\Template\Temp1\Temp1\bin\Debug\Temp1.exe.config
+D:\TAS   MFC\CSHARP\.icworks.GameFx\Template\Temp1\Temp1\bin\Debug\Temp1.exe
+D:\TAS   MFC\CSHARP\.icworks.GameFx\Template\Temp1\Temp1\bin\Debug\Temp1.pdb
+D:\TAS   MFC\CSHARP\.icworks.GameFx\Template\Temp1\Temp1\obj\Debug\Temp1.csprojResolveAssemblyReference.cache
+D:\TAS   MFC\CSHARP\.icworks.GameFx\Template\Temp1\Temp1\obj\Debug\Temp1.MainForm.resources
+D:\TAS   MFC\CSHARP\.icworks.GameFx\Template\Temp1\Temp1\obj\Debug\Temp1.csproj.GenerateResource.Cache
+D:\TAS   MFC\CSHARP\.icworks.GameFx\Template\Temp1\Temp1\obj\Debug\Temp1.exe
+D:\TAS   MFC\CSHARP\.icworks.GameFx\Template\Temp1\Temp1\obj\Debug\Temp1.pdb

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\DELL\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\DELL\.Rider2018.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\DELL\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\DELL\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_doticworks.GameFx.-1302373997.00" t="ExcludeRecursive" />
+    <e p="C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.4" t="IncludeFlat">
+      <e p="doticworks.GameFx" t="IncludeRecursive">
+        <e p="Asset" t="Include">
+          <e p="logo1.png" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Common" t="Include">
+          <e p="Math.cs" t="Include" />
+          <e p="Matrix.cs" t="Include" />
+          <e p="Transform.cs" t="Include" />
+          <e p="TransformRaw.cs" t="Include" />
+          <e p="TransformStack.cs" t="Include" />
+          <e p="Vector2.cs" t="Include" />
+        </e>
+        <e p="Dll" t="Include">
+          <e p="FarseerPhysics.dll" t="Include" />
+          <e p="SharpDX.Direct2D1.dll" t="Include" />
+          <e p="SharpDX.Direct3D11.dll" t="Include" />
+          <e p="SharpDX.DirectInput.dll" t="Include" />
+          <e p="SharpDX.dll" t="Include" />
+          <e p="SharpDX.DXGI.dll" t="Include" />
+          <e p="SharpDX.Mathematics.dll" t="Include" />
+        </e>
+        <e p="doticworks.GameFx.csproj" t="IncludeRecursive" />
+        <e p="Extension.cs" t="Include" />
+        <e p="Game" t="Include">
+          <e p="Components" t="Include">
+            <e p="ComEvent.cs" t="Include" />
+            <e p="ComModelReservedInterfaces.cs" t="Include" />
+            <e p="ComMotion.cs" t="Include" />
+            <e p="ComNode.cs" t="Include" />
+            <e p="Component.cs" t="Include" />
+            <e p="ComponentModel.cs" t="Include" />
+            <e p="ComRender.cs" t="Include" />
+            <e p="ComRenderKeyNode.cs" t="Include" />
+            <e p="ComRenderNormal.cs" t="Include" />
+            <e p="ComRooter.cs" t="Include" />
+          </e>
+          <e p="GameObject.cs" t="Include" />
+          <e p="GameWorld.cs" t="Include" />
+          <e p="GameWorldData.cs" t="Include" />
+          <e p="GameWorldEvents.cs" t="Include" />
+          <e p="GameWorldTrace.cs" t="Include" />
+          <e p="PrefabGameObject.cs" t="Include" />
+        </e>
+        <e p="GameBox.cs" t="Include" />
+        <e p="GameBox.Designer.cs" t="Include" />
+        <e p="GameBox.resx" t="Include" />
+        <e p="GameFxRuntime.cs" t="Include" />
+        <e p="Gizmos" t="Include">
+          <e p="Embed.cs" t="Include" />
+          <e p="GraphBehavior.cs" t="Include" />
+          <e p="oldDeviceManager.cs" t="Include" />
+        </e>
+        <e p="Hello.cs" t="Include" />
+        <e p="Helper" t="Include">
+          <e p="StopTimer.cs" t="Include" />
+        </e>
+        <e p="IO" t="Include">
+          <e p="Assetor.cs" t="Include" />
+          <e p="Serializer.cs" t="Include" />
+          <e p="string.cs" t="Include" />
+          <e p="Texture.cs" t="Include" />
+        </e>
+        <e p="Modules" t="Include">
+          <e p="Clock" t="Include">
+            <e p="Clocker.cs" t="Include" />
+          </e>
+          <e p="Gfx" t="Include">
+            <e p="GraphicsDevice.cs" t="Include" />
+            <e p="IRender.cs" t="Include" />
+            <e p="Presenter.cs" t="Include" />
+            <e p="Render.cs" t="Include" />
+            <e p="Render2D.cs" t="Include" />
+            <e p="RenderDraw.cs" t="Include" />
+            <e p="RenderTemps.cs" t="Include" />
+          </e>
+          <e p="Input" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Terminal.cs" t="Include" />
+        <e p="Win" t="Include">
+          <e p="InputBox.cs" t="Include" />
+          <e p="InputBox.Designer.cs" t="Include" />
+          <e p="InputBox.resx" t="Include" />
+        </e>
+        <e p="Win32.cs" t="Include" />
+      </e>
+      <e p="doticworks.GameFx.sln" t="IncludeFlat" />
+      <e p="extensions" t="Include">
+        <e p="Hierarchy" t="IncludeRecursive">
+          <e p="app.config" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Hierarchy.csproj" t="IncludeRecursive" />
+          <e p="MainForm.cs" t="Include" />
+          <e p="MainForm.Designer.cs" t="Include" />
+          <e p="MainForm.resx" t="Include" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+          <e p="tab_main.cs" t="Include" />
+          <e p="tab_main.Designer.cs" t="Include" />
+          <e p="tab_main.resx" t="Include" />
+          <e p="tab_unconnect.cs" t="Include" />
+          <e p="tab_unconnect.Designer.cs" t="Include" />
+          <e p="tab_unconnect.resx" t="Include" />
+        </e>
+        <e p="TempKeyPad" t="IncludeRecursive">
+          <e p="app.config" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="MainForm.cs" t="Include" />
+          <e p="MainForm.Designer.cs" t="Include" />
+          <e p="MainForm.resx" t="Include" />
+          <e p="obj" t="ExcludeRecursive" />
+          <e p="Program.cs" t="Include" />
+          <e p="Properties" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+          </e>
+          <e p="TempKeyPad.csproj" t="IncludeRecursive" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Tester" t="IncludeRecursive">
+        <e p="app.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainForm.cs" t="Include" />
+        <e p="MainForm.Designer.cs" t="Include" />
+        <e p="MainForm.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Tester.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

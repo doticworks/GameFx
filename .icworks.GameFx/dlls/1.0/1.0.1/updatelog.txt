@@ -1,0 +1,14 @@
+﻿
+
+################################
+1.0.1.*
+
+1.FxGraphics映射
+2.Assetor新初始化  =new Assetor(); 即可    不需要输大量东西
+3.Assetor add a function : get_bitmap();
+4.FxGraphics add functions:
+	g.Bitmap(Bitmap bmp,int x,int y);
+	g.Bitmap(Bitmap bmp,int x,int y,int w,int h)
+5.Add func m.Input.KeyHold((i)=>{});
+6.Embed WinformUI ,but maybe lose control
+7.class InstanceSync is in development!

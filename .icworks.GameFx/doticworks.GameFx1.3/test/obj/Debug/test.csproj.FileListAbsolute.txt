@@ -1,0 +1,35 @@
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\test.exe.config
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\test.exe
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\test.pdb
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\doticworks.GameFx.dll
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\doticworks.GameFx.pdb
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.MainForm.resources
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.exe
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\test.exe.config
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\test.exe
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\test.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.MainForm.resources
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.exe
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\.icworks.GameFx.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\.icworks.GameFx.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\bin\Debug\.icworks.GameFx.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\bin\Debug\.icworks.GameFx.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\obj\Debug\test.MainForm.resources
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\bin\Debug\SharpDX.Direct2D1.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\bin\Debug\SharpDX.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\bin\Debug\SharpDX.DXGI.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\bin\Debug\Canvas.exe.config
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\bin\Debug\Canvas.exe
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\bin\Debug\Canvas.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\obj\Debug\Canvas.exe
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\obj\Debug\Canvas.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\bin\Debug\TEST.extension.ic.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\bin\Debug\TEST.extension.ic.pdb

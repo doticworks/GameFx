@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89305e3d-a988-4e99-8ac9-d036210fe74f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/COMMON/Transform.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/COMMON/TransformRaw.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/DLL/SharpDX.DXGI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/DLL/SharpDX.Direct2D1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/DLL/SharpDX.DirectInput.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/DLL/SharpDX.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/GAME/IOMachineDInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/GAME/WORLD/Competions/ICollision.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/GAME/WORLD/Competions/IKeyInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/GAME/WORLD/Competions/IRender.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/GAME/WORLD/GameObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/GAME/WORLD/GameObjectControl.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/GAME/WORLD/GameObjectNormal.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/GAME/WORLD/GameWorld.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/GFX/Layer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/GFX/LayerNode.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/GFX/Render.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/GFX/RenderDraw.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/GFX/RenderTemps.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/GameFxRuntime.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/Hello.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/WEB/WebClient.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/WEB/WebService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/WIN/InputBox.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/WIN/InputBox.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/WIN/InputBox.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/Win32.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.icworks.GameFx.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../.icworks.GameFx.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/GAME/IOMachineDatas.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/GAME/IOMachineDatas.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/bin/Debug/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/bin/Debug/.icworks.GameFx.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/bin/Debug/.icworks.GameFx.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/bin/Debug/.icworks.GameFx.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/bin/Release/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/bin/Release/.icworks.GameFx.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/doticworks.GameFx.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/doticworks.GameFx.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/.icworks.GameFx.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/.icworks.GameFx.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/.icworks.GameFx.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/obj/Release/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/obj/Release/.icworks.GameFx.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/MainForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/MainForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bin/Debug/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test/bin/Debug/.icworks.GameFx.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bin/Debug/.icworks.GameFx.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/bin/Debug/.icworks.GameFx.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bin/Debug/AAtest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/test/bin/Debug/AAtest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bin/Debug/AAtest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/bin/Debug/AAtest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bin/Release/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test/bin/Release/.icworks.GameFx.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/bin/Release/AAtest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/test/bin/Release/AAtest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/obj/Debug/AAtest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/test/obj/Debug/AAtest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/obj/Debug/AAtest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/obj/Debug/AAtest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/obj/Debug/test.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/obj/Debug/test.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/obj/Release/AAtest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/test/obj/Release/AAtest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/obj/Release/test.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/obj/Release/test.csprojResolveAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1823126578">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doticworks.GameFx/GAME/WORLD/GameWorld.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+              <folding>
+                <marker date="1609393267285" expanded="true" signature="0:105" ph="/* 由SharpDevelop创建。 ... */" />
+                <marker date="1609393267285" expanded="false" signature="112:229" ph="..." />
+                <marker date="1609393267285" expanded="true" signature="268:1176" ph="{...}" />
+                <marker date="1609393267285" expanded="true" signature="272:332" ph="/// Description of GameWorld. ... " />
+                <marker date="1609393267285" expanded="true" signature="356:1174" ph="{...}" />
+                <marker date="1609393267285" expanded="true" signature="380:585" ph="{...}" />
+                <marker date="1609393267285" expanded="true" signature="510:580" ph="{...}" />
+                <marker date="1609393267285" expanded="true" signature="547:575" ph="{...}" />
+                <marker date="1609393267285" expanded="true" signature="795:951" ph="{...}" />
+                <marker date="1609393267285" expanded="true" signature="1009:1171" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/GAME/WORLD/GameWorld.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="76" />
+    <option name="y" value="12" />
+    <option name="width" value="1400" />
+    <option name="height" value="945" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GAME" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="GAME" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WORLD" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89305e3d-a988-4e99-8ac9-d036210fe74f" name="Default Changelist" comment="" />
+      <created>1609393384747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609393384747</updated>
+      <workItem from="1609393388007" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="89000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1040" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/GAME/WORLD/GameWorld.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+          <folding>
+            <marker date="1609393267285" expanded="true" signature="0:105" ph="/* 由SharpDevelop创建。 ... */" />
+            <marker date="1609393267285" expanded="false" signature="112:229" ph="..." />
+            <marker date="1609393267285" expanded="true" signature="268:1176" ph="{...}" />
+            <marker date="1609393267285" expanded="true" signature="272:332" ph="/// Description of GameWorld. ... " />
+            <marker date="1609393267285" expanded="true" signature="356:1174" ph="{...}" />
+            <marker date="1609393267285" expanded="true" signature="380:585" ph="{...}" />
+            <marker date="1609393267285" expanded="true" signature="510:580" ph="{...}" />
+            <marker date="1609393267285" expanded="true" signature="547:575" ph="{...}" />
+            <marker date="1609393267285" expanded="true" signature="795:951" ph="{...}" />
+            <marker date="1609393267285" expanded="true" signature="1009:1171" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

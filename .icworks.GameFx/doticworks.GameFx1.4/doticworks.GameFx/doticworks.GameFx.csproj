@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{64EE532A-F3B4-4E46-A9BE-17AFE9B48160}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <RootNamespace>doticworks.GameFx</RootNamespace>
+    <AssemblyName>.icworks.GameFx</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <NoWin32Manifest>False</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Temporary|AnyCPU' ">
+    <OutputPath>bin\Temporary\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FarseerPhysics">
+      <HintPath>Dll\FarseerPhysics.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="SharpDX">
+      <HintPath>Dll\SharpDX.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.Direct2D1">
+      <HintPath>Dll\SharpDX.Direct2D1.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.Direct3D11">
+      <HintPath>..\..\doticworks.GameFx1.4TEST\doticworks.GameFx\DLL\SharpDX.Direct3D11.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.DirectInput">
+      <HintPath>Dll\SharpDX.DirectInput.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.DXGI">
+      <HintPath>Dll\SharpDX.DXGI.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.Mathematics">
+      <HintPath>Dll\SharpDX.Mathematics.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Extension.cs" />
+    <Compile Include="Game\Components\ComEvent.cs" />
+    <Compile Include="Game\Components\ComMotion.cs">
+      <DependentUpon>ComEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\Components\ComRenderKeyNode.cs">
+      <DependentUpon>ComRender.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\Components\ComRooter.cs" />
+    <Compile Include="Game\GameWorldData.cs">
+      <DependentUpon>GameWorld.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\GameWorldEvents.cs">
+      <DependentUpon>GameWorld.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\GameWorldTrace.cs">
+      <DependentUpon>GameWorld.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\Clock\Clocker.cs" />
+    <Compile Include="Modules\Gfx\GraphicsDevice.cs" />
+    <Compile Include="Common\Math.cs" />
+    <Compile Include="Common\Matrix.cs" />
+    <Compile Include="Common\Transform.cs" />
+    <Compile Include="Common\TransformRaw.cs" />
+    <Compile Include="Common\TransformStack.cs" />
+    <Compile Include="Common\Vector2.cs" />
+    <Compile Include="GameBox.cs" />
+    <Compile Include="GameBox.Designer.cs">
+      <DependentUpon>GameBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameFxRuntime.cs" />
+    <Compile Include="Game\Components\ComModelReservedInterfaces.cs">
+      <DependentUpon>ComponentModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\Components\ComNode.cs" />
+    <Compile Include="Game\Components\Component.cs" />
+    <Compile Include="Game\Components\ComponentModel.cs" />
+    <Compile Include="Game\Components\ComRender.cs" />
+    <Compile Include="Game\Components\ComRenderNormal.cs">
+      <DependentUpon>ComRender.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\GameObject.cs" />
+    <Compile Include="Game\GameWorld.cs" />
+    <Compile Include="Game\PrefabGameObject.cs" />
+    <Compile Include="Modules\Gfx\IRender.cs" />
+    <Compile Include="Modules\Gfx\Presenter.cs" />
+    <Compile Include="Modules\Gfx\Render.cs" />
+    <Compile Include="Modules\Gfx\Render2D.cs" />
+    <Compile Include="Modules\Gfx\RenderDraw.cs">
+      <DependentUpon>Render.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\Gfx\RenderTemps.cs">
+      <DependentUpon>Render.cs</DependentUpon>
+    </Compile>
+    <None Include="Gizmos\oldDeviceManager.cs" />
+    <Compile Include="Hello.cs" />
+    <Compile Include="IO\Assetor.cs" />
+    <Compile Include="IO\Serializer.cs" />
+    <Compile Include="IO\string.cs">
+      <DependentUpon>Assetor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IO\Texture.cs">
+      <DependentUpon>Assetor.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Asset\logo1.png" />
+    <EmbeddedResource Include="Dll\FarseerPhysics.dll" />
+    <EmbeddedResource Include="Dll\SharpDX.Direct3D11.dll" />
+    <None Include="Dll\SharpDX.Mathematics.dll" />
+    <None Include="Gizmos\Embed.cs" />
+    <None Include="Gizmos\GraphBehavior.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Helper\StopTimer.cs" />
+    <Compile Include="Terminal.cs" />
+    <Compile Include="Win32.cs" />
+    <Compile Include="Win\InputBox.cs" />
+    <Compile Include="Win\InputBox.Designer.cs">
+      <DependentUpon>InputBox.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Dll\SharpDX.Direct2D1.dll" />
+    <EmbeddedResource Include="Dll\SharpDX.DirectInput.dll" />
+    <EmbeddedResource Include="Dll\SharpDX.dll" />
+    <EmbeddedResource Include="Dll\SharpDX.DXGI.dll" />
+    <EmbeddedResource Include="GameBox.resx">
+      <DependentUpon>GameBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Win\InputBox.resx">
+      <DependentUpon>InputBox.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Dll" />
+    <Folder Include="Common" />
+    <Folder Include="Win" />
+    <Folder Include="Gizmos" />
+    <Folder Include="IO" />
+    <Folder Include="Modules\Gfx" />
+    <Folder Include="Modules\Input" />
+    <Folder Include="Asset" />
+    <Folder Include="Helper" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

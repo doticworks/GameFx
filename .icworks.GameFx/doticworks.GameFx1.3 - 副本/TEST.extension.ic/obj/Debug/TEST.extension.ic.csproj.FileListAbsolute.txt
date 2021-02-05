@@ -1,0 +1,10 @@
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\TEST.extension.ic\bin\Debug\TEST.extension.ic.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\TEST.extension.ic\bin\Debug\TEST.extension.ic.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\TEST.extension.ic\bin\Debug\.icworks.GameFx.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\TEST.extension.ic\bin\Debug\SharpDX.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\TEST.extension.ic\bin\Debug\SharpDX.Direct2D1.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\TEST.extension.ic\bin\Debug\SharpDX.DXGI.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\TEST.extension.ic\bin\Debug\.icworks.GameFx.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\TEST.extension.ic\obj\Debug\TEST.extension.ic.csprojResolveAssemblyReference.cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\TEST.extension.ic\obj\Debug\TEST.extension.ic.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\TEST.extension.ic\obj\Debug\TEST.extension.ic.pdb

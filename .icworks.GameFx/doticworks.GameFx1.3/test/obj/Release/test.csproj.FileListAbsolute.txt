@@ -1,0 +1,24 @@
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Release\test.exe.config
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Release\test.exe
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Release\test.csprojResolveAssemblyReference.cache
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Release\test.MainForm.resources
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Release\test.csproj.GenerateResource.Cache
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Release\test.exe
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Release\doticworks.GameFx.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Release\test.exe.config
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Release\test.exe
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Release\.icworks.GameFx.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Release\test.csprojResolveAssemblyReference.cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Release\test.MainForm.resources
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Release\test.csproj.GenerateResource.Cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Release\test.exe
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\bin\Release\.icworks.GameFx.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\obj\Release\test.csprojResolveAssemblyReference.cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\obj\Release\test.MainForm.resources
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\obj\Release\test.csproj.GenerateResource.Cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\bin\Release\SharpDX.Direct2D1.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\bin\Release\SharpDX.DXGI.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\bin\Release\SharpDX.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\bin\Release\Canvas.exe.config
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\bin\Release\Canvas.exe
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.3\test\obj\Release\Canvas.exe

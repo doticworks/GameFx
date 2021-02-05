@@ -31,9 +31,9 @@
 
 > A Link Lib with Managed DirectX11 and Physics for C# beginners
 
-## Getting Start!
+## Getting Start! (only 1.3version)
 
-### IOMachine
+### IOMachine （v1.3.5）
 
 > `*Namespace doticworks.GameFx.GAME*`
 >

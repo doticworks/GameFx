@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\DELL\.Rider2018.2\config\extensions" t="IncludeRecursive" />
-    <e p="C:\Users\DELL\.Rider2018.2\config\scratches" t="IncludeRecursive" />
-    <e p="C:\Users\DELL\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\DELL\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_doticworks.GameFx.-1302373997.00" t="ExcludeRecursive" />
-    <e p="C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.4" t="IncludeFlat">
+    <e p="C:\Users\Administrator\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_doticworks.GameFx.-1654093025.00" t="ExcludeRecursive" />
+    <e p="D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4" t="IncludeFlat">
       <e p="doticworks.GameFx" t="IncludeRecursive">
         <e p="Asset" t="Include">
           <e p="logo1.png" t="Include" />

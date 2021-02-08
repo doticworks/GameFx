@@ -34,7 +34,7 @@ namespace doticworks.GameFx.Game
 			trace = new Thread(() => Trace());
 			trace.IsBackground = true;
 			trace.SetApartmentState(ApartmentState.STA);
-		ClientResize+=(w,h)=>{
+			ClientResize+=(w,h)=>{
 			root.components.RI_ComNode.TreeInvoke(after:(go)=>{
 				go.components.DoComponents<ComRenderKeyNode>((crkn) =>
 				{

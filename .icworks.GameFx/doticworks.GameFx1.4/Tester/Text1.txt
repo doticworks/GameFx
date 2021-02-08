@@ -1,0 +1,86 @@
+﻿GameObject back= PrefabGameObject.NormalGameObject;
+					back.Tag = "back";
+					GameObject g= PrefabGameObject.NormalGameObject;
+					GameObject earth = PrefabGameObject.NodeGameObject;
+					earth.Tag = "EARTH!!";
+					earth.x = 300;
+					earth.y = 300;
+					ValueTuple<float, float> earthgravity = new ValueTuple<float, float>(0,0);
+					var earthcom=new ComEvent();
+					earth.components.AddComponent(earthcom);
+					ComMotion cm = new ComMotion();
+					cm.forces.Add(earthgravity);
+					earthcom.OnUpdate = (dt) =>
+					{
+						var valueTuple = cm.forces[0];
+						valueTuple.Item2 = 100f / ((earth.x - g.x) * -Math.Abs(earth.x - g.x));
+						valueTuple.Item1 = 100f / ((earth.y - g.y) * -Math.Abs(earth.y - g.y));
+						cm.forces[0] = valueTuple;
+					};
+					
+					
+					g.components.AddComponent(cm);
+				//	GameObject g2=PrefabGameObject.NormalGameObject;
+					back.components.GetComponent<ComRenderNormal>().paint=(ir)=>{
+						ir._Clear(0,0,0);
+						ir._Text(0,0,gameBox1.gameworld.NowFps.ToString()+" "+gameBox1.gameworld.CanFps.ToString(),10,0,1,0,1);
+						ir._Text(0,10,gameBox1.gameworld.DeltaTime.ToString(),10,0,1,0,1);
+					};
+					g.components.GetComponent<ComRenderNormal>().paint=(ir)=>{
+						ir._Rectangle_Fill(-3,-18,6,18,0.4f,0.5f,0.5f,1);
+						ir._Circle_Fill(0,0,10,0.5f,0.5f,0.5f,1);
+						};
+					g.Tag="g";
+				/*	g2.components.GetComponent<ComRenderNormal>().paint=(ir)=>{ir._Rectangle_Fill(100,100,50,50,0.6f,0.1f,0.7f,1);};
+					
+					g2.Tag="g2";
+					g.components.RI_ComNode_Add(g2);
+					GameObject gcol= g.Clone();
+					Terminal.InputBinding+=(s)=>{try{
+							
+							gcol.x=int.Parse(s);
+						}catch{}};
+				*/		
+					
+					
+					
+				//	gcol.x=300;
+					g.x = 100;
+					g.y = 100;
+					Extension.Regist_("KEYPADM", (o) => { return g.components.GetComponent<ComMotion>();});
+					world.root.components.RI_ComNode.Add(back);
+					world.root.components.RI_ComNode_Add(g);
+					world.root.components.RI_ComNode_Add(earth);
+				//	world.root.components.RI_ComNode_Add(gcol);
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				St.CheckTer("sin100",()=>{
+			            	for(int i=1;i<=100000;i++){
+			            		Math.Sin(0.6d);
+			            	}
+			            });
+			St.CheckTer("msin100",()=>{
+						for(int i=1;i<=100000;i++){
+			            		doticworks.GameFx.Common.SimpMath.SinR(0.6f);
+			            	}
+			            });

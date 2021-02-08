@@ -45,8 +45,8 @@ namespace doticworks.GameFx.Game.Components
 			}
 		}
 		public void AddComponent(Component value){
-			value.Load(this);
 			value.Owner=owner;
+			value.Load(this);
 			components.Add(value);
 		}
 		public ComponentModel Copy(GameObject __owner){

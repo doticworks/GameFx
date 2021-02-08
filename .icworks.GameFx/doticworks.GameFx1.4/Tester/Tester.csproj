@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="Text1.txt" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\doticworks.GameFx\doticworks.GameFx.csproj">

@@ -19,7 +19,8 @@ namespace doticworks.GameFx.Game
                     sw.Start();}
                 root.components.RI_ComNode.TreeInvoke((gx) =>
                 {
-                    gx.components.DoComponents<ComEvent>((ce) => { ce.OnUpdate(DeltaTime); });
+                    gx.components.Onupdate(DeltaTime);
+                //    gx.components.DoComponents<ComEvent>((ce) => { ce.OnUpdate(DeltaTime); });
                 });
                 if(DebugMode){
                     sw.Stop();

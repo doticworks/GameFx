@@ -1,8 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fe24301-d4e2-4ef9-889f-b2020eadd476" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="3fe24301-d4e2-4ef9-889f-b2020eadd476" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.doticworks.GameFx/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.doticworks.GameFx/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.doticworks.GameFx/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.doticworks.GameFx/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/bin/Debug/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/bin/Debug/.icworks.GameFx.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/bin/Debug/.icworks.GameFx.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/bin/Debug/.icworks.GameFx.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/bin/Debug/Hierarchy.ic.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/bin/Debug/Hierarchy.ic.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/bin/Debug/Hierarchy.ic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/bin/Debug/Hierarchy.ic.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/obj/Debug/Hierarchy.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/obj/Debug/Hierarchy.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/obj/Debug/Hierarchy.ic.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/obj/Debug/Hierarchy.ic.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/obj/Debug/Hierarchy.ic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/obj/Debug/Hierarchy.ic.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/tab_main.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/tab_main.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/tab_main.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/tab_main.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/TempKeyPad/MainForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/TempKeyPad/MainForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/TempKeyPad/bin/Debug/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/TempKeyPad/bin/Debug/.icworks.GameFx.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/TempKeyPad/bin/Debug/.icworks.GameFx.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/TempKeyPad/bin/Debug/.icworks.GameFx.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/TempKeyPad/bin/Debug/TempKeyPad.ic.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/TempKeyPad/bin/Debug/TempKeyPad.ic.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/TempKeyPad/bin/Debug/TempKeyPad.ic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/TempKeyPad/bin/Debug/TempKeyPad.ic.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/TempKeyPad/obj/Debug/TempKeyPad.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/TempKeyPad/obj/Debug/TempKeyPad.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/TempKeyPad/obj/Debug/TempKeyPad.ic.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/TempKeyPad/obj/Debug/TempKeyPad.ic.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/TempKeyPad/obj/Debug/TempKeyPad.ic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/TempKeyPad/obj/Debug/TempKeyPad.ic.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/MainForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/MainForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/MainForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/MainForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/bin/Debug/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/bin/Debug/.icworks.GameFx.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/bin/Debug/.icworks.GameFx.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/bin/Debug/.icworks.GameFx.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/bin/Debug/Hierarchy.ic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/bin/Debug/Hierarchy.ic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/bin/Debug/Hierarchy.ic.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/bin/Debug/TempKeyPad.ic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/bin/Debug/TempKeyPad.ic.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/bin/Debug/Tester.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/bin/Debug/Tester.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/bin/Debug/Tester.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/bin/Debug/Tester.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/bin/Debug/临时键盘.ic" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/obj/Debug/Tester.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/obj/Debug/Tester.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/obj/Debug/Tester.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/obj/Debug/Tester.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/obj/Debug/Tester.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/obj/Debug/Tester.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComModelReservedInterfaces.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComModelReservedInterfaces.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComMotion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComMotion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComponentModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComponentModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldTrace.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldTrace.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/bin/Debug/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/bin/Debug/.icworks.GameFx.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/bin/Debug/.icworks.GameFx.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/bin/Debug/.icworks.GameFx.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/bin/Debug/mscorlib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/bin/Debug/mscorlib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/bin/Debug/zh-Hans/mscorlib.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/bin/Debug/zh-Hans/mscorlib.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/.icworks.GameFx.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/.icworks.GameFx.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/.icworks.GameFx.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/doticworks.GameFx.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/doticworks.GameFx.csproj.FileListAbsolute.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,218 +85,49 @@
     <expand />
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1626613074">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="19" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="5" />
-          <entry key="project.open.time.7" value="7" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="19" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="config" value="1" />
-          <entry key="cs" value="190" />
-          <entry key="csproj" value="2" />
-          <entry key="groovy" value="2" />
-          <entry key="sln" value="2" />
-          <entry key="vmoptions" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="C#" value="187" />
-          <entry key="Config" value="1" />
-          <entry key="Csproj" value="2" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Scratch" value="5" />
-          <entry key="Solution File" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="cs" value="3651" />
-          <entry key="csproj" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="C#" value="3651" />
-          <entry key="Csproj" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="doticworks.GameFx" />
-    <favorites_list name=".icworks">
-      <favorite_root url="file://$PROJECT_DIR$/doticworks.GameFx/GameBox.cs" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-    </favorites_list>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="28" column="89" selection-start-line="28" selection-start-column="89" selection-end-line="28" selection-end-column="89" />
-              <folding>
-                <marker date="1612424449711" expanded="true" signature="0:105" ph="/* 由SharpDevelop创建。 ... */" />
-                <marker date="1612424449711" expanded="false" signature="112:250" ph="..." />
-                <marker date="1612424449711" expanded="true" signature="283:1774" ph="{...}" />
-                <marker date="1612424449711" expanded="true" signature="287:347" ph="/// Description of GameWorld. ... " />
-                <marker date="1612424449711" expanded="true" signature="379:1772" ph="{...}" />
-                <marker date="1612424449711" expanded="true" signature="403:467" ph="{...}" />
-                <marker date="1612424449711" expanded="true" signature="493:1282" ph="{...}" />
-                <marker date="1612424449711" expanded="true" signature="923:1092" ph="{...}" />
-                <marker date="1612424449711" expanded="true" signature="978:1089" ph="{...}" />
-                <marker date="1612424449711" expanded="true" signature="1038:1082" ph="{...}" />
-                <marker date="1612424449711" expanded="true" signature="1100:1140" ph="/* Invoke(new MethodInvoker(() =&gt; ... */" />
-                <marker date="1612424449711" expanded="true" signature="1556:1675" ph="{...}" />
-                <marker date="1612424449711" expanded="true" signature="1620:1671" ph="{...}" />
-                <marker date="1612424449711" expanded="true" signature="1699:1769" ph="{...}" />
-                <marker date="1612424449711" expanded="true" signature="1720:1765" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/Presenter.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
-              <folding>
-                <marker date="1612425688906" expanded="true" signature="0:105" ph="/* 由SharpDevelop创建。 ... */" />
-                <marker date="1612425688906" expanded="false" signature="112:308" ph="..." />
-                <marker date="1612425688906" expanded="true" signature="347:1499" ph="{...}" />
-                <marker date="1612425688906" expanded="true" signature="351:411" ph="/// Description of Presenter. ... " />
-                <marker date="1612425688906" expanded="true" signature="435:1497" ph="{...}" />
-                <marker date="1612425688906" expanded="true" signature="496:710" ph="{...}" />
-                <marker date="1612425688906" expanded="true" signature="755:795" ph="{...}" />
-                <marker date="1612425688906" expanded="true" signature="1068:1135" ph="/// Call Draw,then call Present!!! ... " />
-                <marker date="1612425688906" expanded="true" signature="1156:1186" ph="{...}" />
-                <marker date="1612425688906" expanded="true" signature="1210:1375" ph="{...}" />
-                <marker date="1612425688906" expanded="true" signature="1397:1494" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/GraphicsDevice.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="126" column="53" lean-forward="true" selection-start-line="126" selection-start-column="53" selection-end-line="126" selection-end-column="53" />
-              <folding>
-                <marker date="1612425733338" expanded="true" signature="0:105" ph="/* 由SharpDevelop创建。 ... */" />
-                <marker date="1612425733338" expanded="false" signature="112:823" ph="..." />
-                <marker date="1612425733338" expanded="true" signature="862:8349" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="905:8347" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="988:1226" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="1267:1305" ph="{...}" />
-                <marker date="1612425733338" expanded="false" signature="1652:1857" ph="Direct3D" />
-                <marker date="1612425733338" expanded="true" signature="1736:1834" ph="/* private SwapChain swapChain; ... */" />
-                <marker date="1612425733338" expanded="false" signature="1863:2136" ph="Direct2D" />
-                <marker date="1612425733338" expanded="true" signature="2393:3381" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="2404:2856" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="2869:3200" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="2905:3048" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="3063:3195" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="3232:3377" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="3387:7018" ph="apply" />
-                <marker date="1612425733338" expanded="true" signature="3465:3744" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="3597:3669" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="3618:3664" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="3914:5228" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="3987:4274" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="4508:4676" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="4700:5186" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="4942:5180" ph="/* bb.Dispose(); ... */" />
-                <marker date="1612425733338" expanded="true" signature="5229:5318" ph="/* public RenderTarget CreateRendertarget(out Action OnDispose){ ... */" />
-                <marker date="1612425733338" expanded="true" signature="5360:5420" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="5469:5584" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="5529:5580" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="5636:5974" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="5740:5970" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="5823:5965" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="6036:7005" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="6099:7001" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="6192:6996" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="6265:6990" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="6389:6983" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="6762:6975" ph="{...}" />
-                <marker date="1612425733338" expanded="false" signature="7024:8341" ph="dispose" />
-                <marker date="1612425733338" expanded="true" signature="7063:7122" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="7154:8328" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="7189:7256" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="7288:7357" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="7358:7690" ph="/* if (this.swapChain != null) ... */" />
-                <marker date="1612425733338" expanded="true" signature="7721:7788" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="7828:7913" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="7942:8005" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="8037:8106" ph="{...}" />
-                <marker date="1612425733338" expanded="true" signature="8107:8223" ph="/* if (this.renderTarget != null) ... */" />
-                <marker date="1612425733338" expanded="true" signature="8255:8324" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01CB6F2B-7D21-4FC6-9F80-1D6B3ABCA40A/bd/2ffc35b1/Monitor.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRooter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComMotion.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E035EB62-6286-495C-B45E-742216896EE5/6d/15390511/SwapChain.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01CB6F2B-7D21-4FC6-9F80-1D6B3ABCA40A/19/d7098841/Volatile.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01CB6F2B-7D21-4FC6-9F80-1D6B3ABCA40A/ec/9cf5eec2/Debugger.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Tester/MainForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D5B100E7-688E-4960-A597-26C9D415E4F6/7c/22dcf116/Utilities.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComNode.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01CB6F2B-7D21-4FC6-9F80-1D6B3ABCA40A/bb/fbf458ca/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComponentModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tester/MainForm.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRenderNormal.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRender.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRenderKeyNode.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E035EB62-6286-495C-B45E-742216896EE5/e8/639a21ad/SampleDescription.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/PrefabGameObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/Presenter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E035EB62-6286-495C-B45E-742216896EE5/ac/3d3321f4/DXGIObject.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/GraphicsDevice.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01CB6F2B-7D21-4FC6-9F80-1D6B3ABCA40A/4b/f6b556fb/List`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/IRender.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/RenderTemps.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01CB6F2B-7D21-4FC6-9F80-1D6B3ABCA40A/b7/2d93f3f7/Lazy`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/RenderDraw.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/Render.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldTrace.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Clock/Clocker.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Helper/StopTimer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D5B100E7-688E-4960-A597-26C9D415E4F6/ed/a0847162/SharpDXException.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E035EB62-6286-495C-B45E-742216896EE5/f7/d0edfb88/ModeDescription.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Extensions/Hierarchy/MainForm.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/GameBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/A8973E94-F04F-4417-83B1-23489D14DB50/72/c716424a/02000004pdb.il" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/93BE256A-5B09-4784-82A9-9940D7A03781/bb/7443a6e0/02000002pdb.il" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/039A630E-4BDC-4C5E-AD52-75D219BC316B/42/1736687d/02000004pdb.il" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/E8F22B87-A1EF-412F-838B-21A4976E30DE/2b/3b2c0375/02000002pdb.il" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6DDFAE8-5AD3-49AD-9B0D-79BC71506561/e3/bd4cf365/TimerQueueTimer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6DDFAE8-5AD3-49AD-9B0D-79BC71506561/d7/4e5a4085/TimerQueue.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/PrefabGameObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/GraphicsDevice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldEvents.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E035EB62-6286-495C-B45E-742216896EE5/93/dff4106c/Rational.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Extensions/Hierarchy/tab_main.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D5B100E7-688E-4960-A597-26C9D415E4F6/04/029c69ce/RawBool.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldTrace.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Extensions/TempKeyPad/MainForm.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D5B100E7-688E-4960-A597-26C9D415E4F6/e4/91ededbd/Result.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComponentModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComModelReservedInterfaces.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRenderKeyNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComMotion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/Component.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRenderNormal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRooter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRender.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Extension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Helper/StopTimer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6DDFAE8-5AD3-49AD-9B0D-79BC71506561/ed/ba924a64/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/GameBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/Presenter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/RenderTemps.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/76D5EF06-2DF3-4165-B9CA-1C9B33761CDC/35/a31827ce/02000004pdb.il" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/IRender.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/Render.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Extensions/Hierarchy/tab_main.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tester/MainForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/RenderDraw.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Extensions/Hierarchy/MainForm.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -241,7 +135,6 @@
         <option value="$PROJECT_DIR$/doticworks.GameFx/Gfx/RenderDraw.cs" />
         <option value="$PROJECT_DIR$/textext.ic/textext.ic.csproj" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRender.cs" />
-        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComponentModel.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/IRender.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/RenderDraw.cs" />
         <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E035EB62-6286-495C-B45E-742216896EE5/6d/15390511/SwapChain.cs" />
@@ -254,105 +147,36 @@
         <option value="$PROJECT_DIR$/doticworks.GameFx/GameBox.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Modules/Clock/Clocker.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldEvents.cs" />
-        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComEvent.cs" />
-        <option value="$PROJECT_DIR$/Tester/MainForm.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldData.cs" />
-        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComMotion.cs" />
         <option value="$PROJECT_DIR$/Extensions/TempKeyPad/MainForm.cs" />
-        <option value="$PROJECT_DIR$/Extensions/Hierarchy/tab_main.cs" />
-        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldTrace.cs" />
-        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/Render.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRenderKeyNode.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Game/PrefabGameObject.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/Presenter.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/GraphicsDevice.cs" />
+        <option value="$PROJECT_DIR$/Tester/g.Designer.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/IComUpdate.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldTrace.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComModelReservedInterfaces.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComEvent.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComMotion.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComponentModel.cs" />
+        <option value="$PROJECT_DIR$/Extensions/Hierarchy/tab_main.cs" />
+        <option value="$PROJECT_DIR$/Tester/MainForm.cs" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="359" />
-    <option name="y" value="49" />
-    <option name="width" value="526" />
-    <option name="height" value="745" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="SolutionExplorer" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Extensions" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Extensions" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="TempKeyPad" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Game" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Game" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Components" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Game" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Components" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="ComRender.cs" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Modules" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="doticworks.GameFx" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Modules" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Gfx" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
-    </panes>
+  <component name="ProjectId" id="1o3H3xfsXs8BSpjlTv6UcsXEhfG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35016394" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30032787" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/DELL/.Rider2018.2/config/resharper-host/DecompilerCache/decompiler/D5B100E7-688E-4960-A597-26C9D415E4F6/e4/91ededbd/Result.cs&#10;main&#9;FILE&#9;file://C:/Windows/Tasks/dotic/#/GameFx/.icworks.GameFx/doticworks.GameFx1.4/Tester/MainForm.cs" />
@@ -361,19 +185,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
@@ -391,7 +203,7 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.0" />
       <method v="2">
-        <option name="Build" enabled="true" />
+        <option name="Build" />
       </method>
     </configuration>
     <configuration name="Extensions\Hierarchy" type="DotNetProject" factoryName=".NET Project" temporary="true">
@@ -409,7 +221,7 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.0" />
       <method v="2">
-        <option name="Build" enabled="true" />
+        <option name="Build" />
       </method>
     </configuration>
     <configuration default="true" type="DotNetProject" factoryName=".NET Project">
@@ -427,7 +239,7 @@
       <option name="PROJECT_KIND" value="Console" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.0" />
       <method v="2">
-        <option name="Build" enabled="true" />
+        <option name="Build" />
       </method>
     </configuration>
     <list>
@@ -472,90 +284,128 @@
       <workItem from="1612410477756" duration="1048000" />
       <workItem from="1612416501918" duration="3834000" />
       <workItem from="1612420535543" duration="5344000" />
+      <workItem from="1612508312838" duration="1918000" />
+      <workItem from="1612523359953" duration="3080000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32694000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1040" height="754" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.26530612" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.5016129" side_tool="true" weight="0.26020408" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2596774" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
-      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32903227" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" sideWeight="0.4989796" weight="0.32903227" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32903227" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5020408" side_tool="true" weight="0.32903227" />
-      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.4979592" weight="0.32419354" />
-      <window_info anchor="bottom" id="运行" order="15" sideWeight="0.4979592" weight="0.32903227" />
-      <window_info anchor="bottom" id="调试" order="16" sideWeight="0.4979592" weight="0.2548387" />
-      <window_info anchor="bottom" id="Stacktrace" order="17" weight="0.32903227" />
-      <window_info anchor="bottom" id="找到" order="18" weight="0.32903227" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32832617" />
-      <window_info anchor="right" id="Database" order="4" weight="0.15612245" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26020408" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" weight="0.32959184" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2596774" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32903227" />
-      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32903227" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" sideWeight="0.4989796" weight="0.32903227" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32903227" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5020408" side_tool="true" weight="0.32419354" />
-      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.4979592" weight="0.32419354" />
-      <window_info anchor="bottom" id="运行" order="15" weight="0.32903227" />
-      <window_info anchor="bottom" id="调试" order="16" sideWeight="0.4979592" weight="0.5532258" />
-      <window_info anchor="bottom" id="Stacktrace" order="17" weight="0.32903227" />
-      <window_info anchor="bottom" id="找到" order="18" weight="0.32903227" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32832617" />
-      <window_info anchor="right" id="Database" order="4" weight="0.15612245" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="381" height="466" key="DebuggerActiveHint" timestamp="1612525719101">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="381" height="466" key="DebuggerActiveHint/0.0.1600.984@0.0.1600.984" timestamp="1612525719101" />
+    <state width="1556" height="346" key="GridCell.Tab.0.bottom" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.0.bottom/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.0.center" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.0.center/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.0.left" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.0.left/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.0.right" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.0.right/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.1.bottom" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.1.bottom/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.1.center" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.1.center/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.1.left" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.1.left/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.1.right" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.1.right/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.2.bottom" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.2.bottom/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.2.center" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.2.center/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.2.left" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.2.left/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.2.right" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.2.right/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.3.bottom" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.3.bottom/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.3.center" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.3.center/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.3.left" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.3.left/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.3.right" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.3.right/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.4.bottom" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.4.bottom/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.4.center" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.4.center/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.4.left" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.4.left/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state width="1556" height="346" key="GridCell.Tab.4.right" timestamp="1612526528770">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state width="1556" height="346" key="GridCell.Tab.4.right/0.0.1600.984@0.0.1600.984" timestamp="1612526528770" />
+    <state x="616" y="190" key="RiderGenerateDialog" timestamp="1612510256066">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state x="616" y="190" key="RiderGenerateDialog/0.0.1600.984@0.0.1600.984" timestamp="1612510256066" />
+    <state x="301" y="123" key="SettingsEditor" timestamp="1612509626300">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state x="301" y="123" key="SettingsEditor/0.0.1600.984@0.0.1600.984" timestamp="1612509626300" />
+    <state x="92" y="92" width="1416" height="800" key="VCS.FileHistoryDialog" timestamp="1612510267447">
+      <screen x="0" y="0" width="1600" height="984" />
+    </state>
+    <state x="92" y="92" width="1416" height="800" key="VCS.FileHistoryDialog/0.0.1600.984@0.0.1600.984" timestamp="1612510267447" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -567,622 +417,11 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Hierarchy/MainForm.cs</url>
           <line>38</line>
-          <properties documentPath="$PROJECT_DIR$/Hierarchy/MainForm.cs" initialLine="36">
-            <startOffsets>
-              <option value="736" />
-            </startOffsets>
-            <endOffsets>
-              <option value="768" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/Hierarchy/MainForm.cs" initialLine="36" />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/GraphicsDevice.cs</url>
-          <line>146</line>
-          <properties documentPath="$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/GraphicsDevice.cs" initialLine="144">
-            <startOffsets>
-              <option value="-1" />
-            </startOffsets>
-            <endOffsets>
-              <option value="-1" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
       </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/JSON-Groovy.json.groovy">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate POJOs.groovy">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRender.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/IRender.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRooter.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01CB6F2B-7D21-4FC6-9F80-1D6B3ABCA40A/ec/9cf5eec2/Debugger.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="77" column="6" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01CB6F2B-7D21-4FC6-9F80-1D6B3ABCA40A/19/d7098841/Volatile.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01CB6F2B-7D21-4FC6-9F80-1D6B3ABCA40A/bd/2ffc35b1/Monitor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D5B100E7-688E-4960-A597-26C9D415E4F6/04/029c69ce/RawBool.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E035EB62-6286-495C-B45E-742216896EE5/93/dff4106c/Rational.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E035EB62-6286-495C-B45E-742216896EE5/f7/d0edfb88/ModeDescription.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E035EB62-6286-495C-B45E-742216896EE5/e8/639a21ad/SampleDescription.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D5B100E7-688E-4960-A597-26C9D415E4F6/7c/22dcf116/Utilities.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="181" column="6" selection-start-line="181" selection-start-column="6" selection-end-line="181" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E035EB62-6286-495C-B45E-742216896EE5/ac/3d3321f4/DXGIObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/RenderTemps.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01CB6F2B-7D21-4FC6-9F80-1D6B3ABCA40A/4b/f6b556fb/List`1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="159" column="8" selection-start-line="159" selection-start-column="8" selection-end-line="159" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComponentModel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/RenderDraw.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LvCt/MainForm.cs" />
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRenderNormal.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hierarchy/tab_main.Designer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="41" column="51" selection-start-line="41" selection-start-column="42" selection-end-line="41" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01CB6F2B-7D21-4FC6-9F80-1D6B3ABCA40A/bb/fbf458ca/Dictionary`2.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="189" column="6" selection-start-line="189" selection-start-column="6" selection-end-line="189" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/01CB6F2B-7D21-4FC6-9F80-1D6B3ABCA40A/b7/2d93f3f7/Lazy`1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="139" column="8" selection-start-line="139" selection-start-column="8" selection-end-line="139" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Extension.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hierarchy/MainForm.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="802">
-          <caret line="71" column="28" selection-start-line="71" selection-start-column="28" selection-end-line="71" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hierarchy/tab_main.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="74" column="13" lean-forward="true" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/GameBox.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-236">
-          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Clock/Clocker.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tester/Tester.csproj">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hierarchy/app.config">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldEvents.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <marker date="1612419427510" expanded="true" signature="0:116" ph="/* 由SharpDevelop创建。 ... */" />
-            <marker date="1612419427510" expanded="true" signature="175:714" ph="{...}" />
-            <marker date="1612419427510" expanded="true" signature="179:238" ph="/// Description of ComEvent. ... " />
-            <marker date="1612419427510" expanded="true" signature="271:712" ph="{...}" />
-            <marker date="1612419427510" expanded="true" signature="294:302" ph="{...}" />
-            <marker date="1612419427510" expanded="true" signature="352:381" ph="{...}" />
-            <marker date="1612419427510" expanded="true" signature="506:709" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Extensions/Hierarchy/MainForm.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="43" selection-end-column="14" />
-          <folding>
-            <marker date="1612409470656" expanded="true" signature="0:117" ph="/* 由SharpDevelop创建。 ... */" />
-            <marker date="1612409470656" expanded="true" signature="124:270" ph="..." />
-            <marker date="1612409470656" expanded="true" signature="291:1674" ph="{...}" />
-            <marker date="1612409470656" expanded="true" signature="295:354" ph="/// Description of MainForm. ... " />
-            <marker date="1612409470656" expanded="true" signature="392:1672" ph="{...}" />
-            <marker date="1612409470656" expanded="true" signature="415:644" ph="{...}" />
-            <marker date="1612409470656" expanded="true" signature="739:871" ph="{...}" />
-            <marker date="1612409470656" expanded="true" signature="775:866" ph="{...}" />
-            <marker date="1612409470656" expanded="true" signature="813:861" ph="{...}" />
-            <marker date="1612409470656" expanded="true" signature="961:1669" ph="{...}" />
-            <marker date="1612409470656" expanded="true" signature="996:1274" ph="{...}" />
-            <marker date="1612409470656" expanded="true" signature="1101:1266" ph="{...}" />
-            <marker date="1612409470656" expanded="true" signature="1282:1661" ph="{...}" />
-            <marker date="1612409470656" expanded="true" signature="1320:1655" ph="{...}" />
-            <marker date="1612409470656" expanded="true" signature="1359:1649" ph="{...}" />
-            <marker date="1612409470656" expanded="true" signature="1469:1639" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tester/MainForm.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="34" column="63" selection-start-line="34" selection-start-column="63" selection-end-line="34" selection-end-column="63" />
-          <folding>
-            <marker date="1612421704089" expanded="true" signature="0:114" ph="/* 由SharpDevelop创建。 ... */" />
-            <marker date="1612421704089" expanded="false" signature="121:388" ph="..." />
-            <marker date="1612421704089" expanded="true" signature="406:2502" ph="{...}" />
-            <marker date="1612421704089" expanded="true" signature="410:469" ph="/// Description of MainForm. ... " />
-            <marker date="1612421704089" expanded="true" signature="507:2500" ph="{...}" />
-            <marker date="1612421704089" expanded="true" signature="530:2182" ph="{...}" />
-            <marker date="1612421704089" expanded="true" signature="676:2075" ph="{...}" />
-            <marker date="1612421704089" expanded="true" signature="1036:1251" ph="{...}" />
-            <marker date="1612421704089" expanded="true" signature="1315:1428" ph="{...}" />
-            <marker date="1612421704089" expanded="true" signature="1450:1759" ph="/* g2.components.GetComponent&lt;ComRenderNormal&gt;().paint=(ir)=&gt;{ir._Rectangle_Fill(100,100,50,50,0.6f,0.1f,0.7f,1); ... */" />
-            <marker date="1612421704089" expanded="true" signature="2094:2128" ph="{...}" />
-            <marker date="1612421704089" expanded="true" signature="2262:2287" ph="{...}" />
-            <marker date="1612421704089" expanded="true" signature="2336:2369" ph="{...}" />
-            <marker date="1612421704089" expanded="true" signature="2418:2494" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-          <folding>
-            <marker date="1612422630408" expanded="true" signature="32:367" ph="{...}" />
-            <marker date="1612422630408" expanded="true" signature="69:365" ph="{...}" />
-            <marker date="1612422630408" expanded="true" signature="142:350" ph="Debugs" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
-          <folding>
-            <marker date="1612411345784" expanded="true" signature="0:105" ph="/* 由SharpDevelop创建。 ... */" />
-            <marker date="1612411345784" expanded="false" signature="112:192" ph="..." />
-            <marker date="1612411345784" expanded="true" signature="225:1489" ph="{...}" />
-            <marker date="1612411345784" expanded="true" signature="229:290" ph="/// Description of GameObject. ... " />
-            <marker date="1612411345784" expanded="true" signature="315:1487" ph="{...}" />
-            <marker date="1612411345784" expanded="true" signature="340:388" ph="{...}" />
-            <marker date="1612411345784" expanded="true" signature="545:554" ph="{...}" />
-            <marker date="1612411345784" expanded="true" signature="582:710" ph="{...}" />
-            <marker date="1612411345784" expanded="true" signature="755:883" ph="{...}" />
-            <marker date="1612411345784" expanded="true" signature="1034:1085" ph="{...}" />
-            <marker date="1612411345784" expanded="true" signature="1042:1081" ph="{...}" />
-            <marker date="1612411345784" expanded="true" signature="1127:1307" ph="{...}" />
-            <marker date="1612411345784" expanded="true" signature="1148:1192" ph="{...}" />
-            <marker date="1612411345784" expanded="true" signature="1205:1268" ph="{...}" />
-            <marker date="1612411345784" expanded="true" signature="1273:1298" ph="{...}" />
-            <marker date="1612411345784" expanded="true" signature="1344:1484" ph="{...}" />
-            <marker date="1612411345784" expanded="true" signature="1418:1468" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Extensions/Hierarchy/tab_main.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="34" column="79" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
-          <folding>
-            <marker date="1612423989379" expanded="true" signature="0:117" ph="/* 由SharpDevelop创建。 ... */" />
-            <marker date="1612423989379" expanded="false" signature="124:370" ph="..." />
-            <marker date="1612423989379" expanded="true" signature="391:2160" ph="{...}" />
-            <marker date="1612423989379" expanded="true" signature="395:454" ph="/// Description of tab_main. ... " />
-            <marker date="1612423989379" expanded="true" signature="499:2158" ph="{...}" />
-            <marker date="1612423989379" expanded="true" signature="522:957" ph="{...}" />
-            <marker date="1612423989379" expanded="true" signature="670:914" ph="{...}" />
-            <marker date="1612423989379" expanded="true" signature="1179:1824" ph="{...}" />
-            <marker date="1612423989379" expanded="true" signature="1311:1475" ph="{...}" />
-            <marker date="1612423989379" expanded="true" signature="1394:1449" ph="{...}" />
-            <marker date="1612423989379" expanded="true" signature="1483:1641" ph="{...}" />
-            <marker date="1612423989379" expanded="true" signature="1560:1615" ph="{...}" />
-            <marker date="1612423989379" expanded="true" signature="1914:2155" ph="{...}" />
-            <marker date="1612423989379" expanded="true" signature="1947:2090" ph="{...}" />
-            <marker date="1612423989379" expanded="true" signature="2094:2151" ph="/* pointer.x = choosedgo.x; ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Extensions/TempKeyPad/MainForm.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-          <folding>
-            <marker date="1612423992169" expanded="true" signature="0:113" ph="/* 由SharpDevelop创建。 ... */" />
-            <marker date="1612423992169" expanded="true" signature="120:277" ph="..." />
-            <marker date="1612423992169" expanded="true" signature="299:1308" ph="{...}" />
-            <marker date="1612423992169" expanded="true" signature="303:362" ph="/// Description of MainForm. ... " />
-            <marker date="1612423992169" expanded="true" signature="400:1306" ph="{...}" />
-            <marker date="1612423992169" expanded="true" signature="423:628" ph="{...}" />
-            <marker date="1612423992169" expanded="true" signature="485:623" ph="{...}" />
-            <marker date="1612423992169" expanded="true" signature="523:618" ph="{...}" />
-            <marker date="1612423992169" expanded="true" signature="707:986" ph="{...}" />
-            <marker date="1612423992169" expanded="true" signature="733:981" ph="{...}" />
-            <marker date="1612423992169" expanded="true" signature="1038:1303" ph="{...}" />
-            <marker date="1612423992169" expanded="true" signature="1064:1299" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComMotion.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-          <folding>
-            <marker date="1612423208686" expanded="false" signature="6:72" ph="..." />
-            <marker date="1612423208686" expanded="true" signature="117:1111" ph="{...}" />
-            <marker date="1612423208686" expanded="true" signature="155:1109" ph="{...}" />
-            <marker date="1612423208686" expanded="true" signature="334:1103" ph="{...}" />
-            <marker date="1612423208686" expanded="true" signature="378:1092" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComNode.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
-          <folding>
-            <marker date="1612411269165" expanded="true" signature="0:105" ph="/* 由SharpDevelop创建。 ... */" />
-            <marker date="1612411269165" expanded="false" signature="112:153" ph="..." />
-            <marker date="1612411269165" expanded="true" signature="197:1666" ph="{...}" />
-            <marker date="1612411269165" expanded="true" signature="201:259" ph="/// Description of ComNode. ... " />
-            <marker date="1612411269165" expanded="true" signature="291:1664" ph="{...}" />
-            <marker date="1612411269165" expanded="true" signature="344:572" ph="{...}" />
-            <marker date="1612411269165" expanded="true" signature="607:692" ph="{...}" />
-            <marker date="1612411269165" expanded="true" signature="775:877" ph="{...}" />
-            <marker date="1612411269165" expanded="true" signature="804:873" ph="{...}" />
-            <marker date="1612411269165" expanded="true" signature="910:1024" ph="{...}" />
-            <marker date="1612411269165" expanded="true" signature="939:1020" ph="{...}" />
-            <marker date="1612411269165" expanded="true" signature="1059:1095" ph="{...}" />
-            <marker date="1612411269165" expanded="true" signature="1149:1218" ph="{...}" />
-            <marker date="1612411269165" expanded="true" signature="1188:1214" ph="{...}" />
-            <marker date="1612411269165" expanded="false" signature="1221:1323" ph="ChildInvokes" />
-            <marker date="1612411269165" expanded="true" signature="1291:1310" ph="{...}" />
-            <marker date="1612411269165" expanded="true" signature="1326:1593" ph="TreeInvokes" />
-            <marker date="1612411269165" expanded="true" signature="1432:1580" ph="{...}" />
-            <marker date="1612411269165" expanded="true" signature="1628:1661" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldTrace.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-          <folding>
-            <marker date="1612424346159" expanded="false" signature="6:140" ph="..." />
-            <marker date="1612424346159" expanded="true" signature="174:1926" ph="{...}" />
-            <marker date="1612424346159" expanded="true" signature="211:1924" ph="{...}" />
-            <marker date="1612424346159" expanded="true" signature="238:1918" ph="{...}" />
-            <marker date="1612424346159" expanded="true" signature="305:1908" ph="{...}" />
-            <marker date="1612424346159" expanded="true" signature="406:518" ph="{...}" />
-            <marker date="1612424346159" expanded="true" signature="580:711" ph="{...}" />
-            <marker date="1612424346159" expanded="true" signature="743:856" ph="{...}" />
-            <marker date="1612424346159" expanded="true" signature="905:1053" ph="{...}" />
-            <marker date="1612424346159" expanded="true" signature="1181:1253" ph="{...}" />
-            <marker date="1612424346159" expanded="true" signature="1437:1684" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D5B100E7-688E-4960-A597-26C9D415E4F6/ed/a0847162/SharpDXException.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D5B100E7-688E-4960-A597-26C9D415E4F6/e4/91ededbd/Result.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="123" column="8" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E035EB62-6286-495C-B45E-742216896EE5/6d/15390511/SwapChain.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="163" column="6" selection-start-line="163" selection-start-column="6" selection-end-line="163" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/Render.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="53" column="29" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
-          <folding>
-            <marker date="1612425521316" expanded="true" signature="0:104" ph="/* 由SharpDevelop创建。 ... */" />
-            <marker date="1612425521316" expanded="false" signature="111:339" ph="..." />
-            <marker date="1612425521316" expanded="true" signature="378:1621" ph="{...}" />
-            <marker date="1612425521316" expanded="true" signature="417:1619" ph="{...}" />
-            <marker date="1612425521316" expanded="true" signature="477:902" ph="{...}" />
-            <marker date="1612425521316" expanded="true" signature="926:961" ph="{...}" />
-            <marker date="1612425521316" expanded="true" signature="930:957" ph="{...}" />
-            <marker date="1612425521316" expanded="true" signature="1179:1203" ph="{...}" />
-            <marker date="1612425521316" expanded="true" signature="1224:1478" ph="{...}" />
-            <marker date="1612425521316" expanded="true" signature="1278:1451" ph="{...}" />
-            <marker date="1612425521316" expanded="true" signature="1363:1413" ph="{...}" />
-            <marker date="1612425521316" expanded="true" signature="1502:1616" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRenderKeyNode.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="47" column="81" selection-start-line="47" selection-start-column="81" selection-end-line="47" selection-end-column="81" />
-          <folding>
-            <marker date="1612425535736" expanded="true" signature="0:115" ph="/* 由SharpDevelop创建。 ... */" />
-            <marker date="1612425535736" expanded="true" signature="122:216" ph="..." />
-            <marker date="1612425535736" expanded="true" signature="261:1425" ph="{...}" />
-            <marker date="1612425535736" expanded="true" signature="265:332" ph="/// Description of ComRenderKeyNode. ... " />
-            <marker date="1612425535736" expanded="true" signature="373:1423" ph="{...}" />
-            <marker date="1612425535736" expanded="true" signature="404:672" ph="{...}" />
-            <marker date="1612425535736" expanded="true" signature="521:667" ph="{...}" />
-            <marker date="1612425535736" expanded="true" signature="749:926" ph="{...}" />
-            <marker date="1612425535736" expanded="true" signature="825:921" ph="{...}" />
-            <marker date="1612425535736" expanded="true" signature="1037:1068" ph="{...}" />
-            <marker date="1612425535736" expanded="true" signature="1164:1313" ph="{...}" />
-            <marker date="1612425535736" expanded="true" signature="1382:1420" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Game/PrefabGameObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
-          <folding>
-            <marker date="1612425692596" expanded="true" signature="0:114" ph="/* 由SharpDevelop创建。 ... */" />
-            <marker date="1612425692596" expanded="false" signature="121:194" ph="..." />
-            <marker date="1612425692596" expanded="true" signature="227:1801" ph="{...}" />
-            <marker date="1612425692596" expanded="true" signature="231:298" ph="/// Description of PrefabGameObject. ... " />
-            <marker date="1612425692596" expanded="true" signature="336:1799" ph="{...}" />
-            <marker date="1612425692596" expanded="true" signature="423:694" ph="{...}" />
-            <marker date="1612425692596" expanded="true" signature="695:1130" ph="/* static Lazy&lt;GameObject&gt; RootGameObject_=new Lazy&lt;GameObject&gt;(()=&gt;{ ... */" />
-            <marker date="1612425692596" expanded="true" signature="1201:1365" ph="{...}" />
-            <marker date="1612425692596" expanded="true" signature="1523:1707" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="28" column="89" selection-start-line="28" selection-start-column="89" selection-end-line="28" selection-end-column="89" />
-          <folding>
-            <marker date="1612424449711" expanded="true" signature="0:105" ph="/* 由SharpDevelop创建。 ... */" />
-            <marker date="1612424449711" expanded="false" signature="112:250" ph="..." />
-            <marker date="1612424449711" expanded="true" signature="283:1774" ph="{...}" />
-            <marker date="1612424449711" expanded="true" signature="287:347" ph="/// Description of GameWorld. ... " />
-            <marker date="1612424449711" expanded="true" signature="379:1772" ph="{...}" />
-            <marker date="1612424449711" expanded="true" signature="403:467" ph="{...}" />
-            <marker date="1612424449711" expanded="true" signature="493:1282" ph="{...}" />
-            <marker date="1612424449711" expanded="true" signature="923:1092" ph="{...}" />
-            <marker date="1612424449711" expanded="true" signature="978:1089" ph="{...}" />
-            <marker date="1612424449711" expanded="true" signature="1038:1082" ph="{...}" />
-            <marker date="1612424449711" expanded="true" signature="1100:1140" ph="/* Invoke(new MethodInvoker(() =&gt; ... */" />
-            <marker date="1612424449711" expanded="true" signature="1556:1675" ph="{...}" />
-            <marker date="1612424449711" expanded="true" signature="1620:1671" ph="{...}" />
-            <marker date="1612424449711" expanded="true" signature="1699:1769" ph="{...}" />
-            <marker date="1612424449711" expanded="true" signature="1720:1765" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/Presenter.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
-          <folding>
-            <marker date="1612425688906" expanded="true" signature="0:105" ph="/* 由SharpDevelop创建。 ... */" />
-            <marker date="1612425688906" expanded="false" signature="112:308" ph="..." />
-            <marker date="1612425688906" expanded="true" signature="347:1499" ph="{...}" />
-            <marker date="1612425688906" expanded="true" signature="351:411" ph="/// Description of Presenter. ... " />
-            <marker date="1612425688906" expanded="true" signature="435:1497" ph="{...}" />
-            <marker date="1612425688906" expanded="true" signature="496:710" ph="{...}" />
-            <marker date="1612425688906" expanded="true" signature="755:795" ph="{...}" />
-            <marker date="1612425688906" expanded="true" signature="1068:1135" ph="/// Call Draw,then call Present!!! ... " />
-            <marker date="1612425688906" expanded="true" signature="1156:1186" ph="{...}" />
-            <marker date="1612425688906" expanded="true" signature="1210:1375" ph="{...}" />
-            <marker date="1612425688906" expanded="true" signature="1397:1494" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/GraphicsDevice.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="126" column="53" lean-forward="true" selection-start-line="126" selection-start-column="53" selection-end-line="126" selection-end-column="53" />
-          <folding>
-            <marker date="1612425733338" expanded="true" signature="0:105" ph="/* 由SharpDevelop创建。 ... */" />
-            <marker date="1612425733338" expanded="false" signature="112:823" ph="..." />
-            <marker date="1612425733338" expanded="true" signature="862:8349" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="905:8347" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="988:1226" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="1267:1305" ph="{...}" />
-            <marker date="1612425733338" expanded="false" signature="1652:1857" ph="Direct3D" />
-            <marker date="1612425733338" expanded="true" signature="1736:1834" ph="/* private SwapChain swapChain; ... */" />
-            <marker date="1612425733338" expanded="false" signature="1863:2136" ph="Direct2D" />
-            <marker date="1612425733338" expanded="true" signature="2393:3381" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="2404:2856" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="2869:3200" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="2905:3048" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="3063:3195" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="3232:3377" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="3387:7018" ph="apply" />
-            <marker date="1612425733338" expanded="true" signature="3465:3744" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="3597:3669" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="3618:3664" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="3914:5228" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="3987:4274" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="4508:4676" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="4700:5186" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="4942:5180" ph="/* bb.Dispose(); ... */" />
-            <marker date="1612425733338" expanded="true" signature="5229:5318" ph="/* public RenderTarget CreateRendertarget(out Action OnDispose){ ... */" />
-            <marker date="1612425733338" expanded="true" signature="5360:5420" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="5469:5584" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="5529:5580" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="5636:5974" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="5740:5970" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="5823:5965" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="6036:7005" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="6099:7001" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="6192:6996" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="6265:6990" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="6389:6983" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="6762:6975" ph="{...}" />
-            <marker date="1612425733338" expanded="false" signature="7024:8341" ph="dispose" />
-            <marker date="1612425733338" expanded="true" signature="7063:7122" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="7154:8328" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="7189:7256" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="7288:7357" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="7358:7690" ph="/* if (this.swapChain != null) ... */" />
-            <marker date="1612425733338" expanded="true" signature="7721:7788" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="7828:7913" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="7942:8005" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="8037:8106" ph="{...}" />
-            <marker date="1612425733338" expanded="true" signature="8107:8223" ph="/* if (this.renderTarget != null) ... */" />
-            <marker date="1612425733338" expanded="true" signature="8255:8324" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

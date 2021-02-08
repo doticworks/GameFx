@@ -39,7 +39,7 @@ namespace Hierarchy
 		public Dictionary<TreeNode,GameObject> shell=new Dictionary<TreeNode, GameObject>();
 		public GameWorld gw;
 		public Action<string> settitle;
-		async void TreeNodeMouseClick(object sender, TreeNodeMouseClickEventArgs e)
+		void TreeNodeMouseClick(object sender, TreeNodeMouseClickEventArgs e)
 		{
 			settitle("Hierarchy - Connected to GameFx - Syncing GameObject...");
 			e.Node.Nodes.Clear();
@@ -61,7 +61,10 @@ namespace Hierarchy
 				});
 				choosedgo=tmp;
 			}
+
+			textBox1.Text = choosedgo.x.ToString() + " " + choosedgo.y.ToString();
 			resetpointer();
+			
 			if(e.Button==MouseButtons.Left){e.Node.Expand();}
 			if(e.Button!=MouseButtons.Left){e.Node.Collapse();}
 			settitle("Hierarchy - Connected to GameFx");
@@ -74,12 +77,14 @@ namespace Hierarchy
 		{
 			if (choosedgo != pointer)
 			{
-			if (pointer.parent != null) pointer.parent.components.RI_ComNode.Remove(pointer);
+				if (pointer.parent != null) pointer.parent.components.RI_ComNode.Remove(pointer);
 			choosedgo.components.RI_ComNode.Add(pointer);
 		}
 
 		//	pointer.x = choosedgo.x;
 		//	pointer.y = choosedgo.y;
 		}
+
+		
 	}
 }

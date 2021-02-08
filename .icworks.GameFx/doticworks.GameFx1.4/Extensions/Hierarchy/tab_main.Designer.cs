@@ -14,11 +14,7 @@ namespace Hierarchy
 		/// Designer variable used to keep track of non-visual components.
 		/// </summary>
 		private System.ComponentModel.IContainer components = null;
-		private System.Windows.Forms.SplitContainer splitContainer1;
-		private System.Windows.Forms.TreeView tree;
-		private System.Windows.Forms.Panel panright;
-		private System.Windows.Forms.TextBox textBox1;
-		
+
 		/// <summary>
 		/// Disposes resources used by the control.
 		/// </summary>
@@ -32,11 +28,10 @@ namespace Hierarchy
 			}
 			base.Dispose(disposing);
 		}
-		
+
 		/// <summary>
-		/// This method is required for Windows Forms designer support.
-		/// Do not change the method contents inside the source code editor. The Forms designer might
-		/// not be able to load this method if it was changed manually.
+		/// Required method for Designer support - do not modify
+		/// the contents of this method with the code editor.
 		/// </summary>
 		private void InitializeComponent()
 		{
@@ -45,7 +40,7 @@ namespace Hierarchy
 			this.tree = new System.Windows.Forms.TreeView();
 			this.panright = new System.Windows.Forms.Panel();
 			this.textBox1 = new System.Windows.Forms.TextBox();
-			((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
+			((System.ComponentModel.ISupportInitialize) (this.splitContainer1)).BeginInit();
 			this.splitContainer1.Panel1.SuspendLayout();
 			this.splitContainer1.Panel2.SuspendLayout();
 			this.splitContainer1.SuspendLayout();
@@ -75,14 +70,13 @@ namespace Hierarchy
 			// 
 			this.tree.BackColor = System.Drawing.Color.DimGray;
 			this.tree.Dock = System.Windows.Forms.DockStyle.Fill;
-			this.tree.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.tree.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
 			this.tree.ForeColor = System.Drawing.Color.DarkGray;
 			this.tree.Location = new System.Drawing.Point(0, 0);
 			this.tree.Name = "tree";
 			treeNode1.Name = "root";
 			treeNode1.Text = "GameWorld";
-			this.tree.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {
-			treeNode1});
+			this.tree.Nodes.AddRange(new System.Windows.Forms.TreeNode[] {treeNode1});
 			this.tree.Size = new System.Drawing.Size(470, 419);
 			this.tree.TabIndex = 0;
 			this.tree.NodeMouseClick += new System.Windows.Forms.TreeNodeMouseClickEventHandler(this.TreeNodeMouseClick);
@@ -113,12 +107,16 @@ namespace Hierarchy
 			this.Size = new System.Drawing.Size(695, 419);
 			this.splitContainer1.Panel1.ResumeLayout(false);
 			this.splitContainer1.Panel2.ResumeLayout(false);
-			((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
+			((System.ComponentModel.ISupportInitialize) (this.splitContainer1)).EndInit();
 			this.splitContainer1.ResumeLayout(false);
 			this.panright.ResumeLayout(false);
 			this.panright.PerformLayout();
 			this.ResumeLayout(false);
-
 		}
+
+		private System.Windows.Forms.Panel panright;
+		private System.Windows.Forms.SplitContainer splitContainer1;
+		private System.Windows.Forms.TextBox textBox1;
+		private System.Windows.Forms.TreeView tree;
 	}
 }

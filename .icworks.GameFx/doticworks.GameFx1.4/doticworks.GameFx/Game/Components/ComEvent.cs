@@ -21,7 +21,16 @@ namespace doticworks.GameFx.Game.Components
 		public override void Load(ComponentModel model)
 		{
 			base.Load(model);
+			Owner.components.RI_ComEvent = this;
+			Owner.components.onupdate += (t) =>
+			{
+				if (Enable)
+				{
+					OnUpdate(t);
+				}
+			};
 		}
+		
 
 		public Action OnWorldStart;
 		public Action<float> OnUpdate;

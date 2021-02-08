@@ -101,7 +101,6 @@
     </Compile>
     <Compile Include="Modules\Clock\Clocker.cs" />
     <Compile Include="Modules\Gfx\GraphicsDevice.cs" />
-    <Compile Include="Common\Math.cs" />
     <Compile Include="Common\Matrix.cs" />
     <Compile Include="Common\Transform.cs" />
     <Compile Include="Common\TransformRaw.cs" />

@@ -28,11 +28,10 @@ namespace TempKeyPad
 			}
 			base.Dispose(disposing);
 		}
-		
+
 		/// <summary>
-		/// This method is required for Windows Forms designer support.
-		/// Do not change the method contents inside the source code editor. The Forms designer might
-		/// not be able to load this method if it was changed manually.
+		/// Required method for Designer support - do not modify
+		/// the contents of this method with the code editor.
 		/// </summary>
 		private void InitializeComponent()
 		{
@@ -42,13 +41,12 @@ namespace TempKeyPad
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(284, 261);
+			this.ClientSize = new System.Drawing.Size(266, 0);
 			this.Name = "MainForm";
 			this.Text = "虚拟键盘扩展:请在此输入";
 			this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.MainFormKeyDown);
 			this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.MainFormKeyUp);
 			this.ResumeLayout(false);
-
 		}
 	}
 }

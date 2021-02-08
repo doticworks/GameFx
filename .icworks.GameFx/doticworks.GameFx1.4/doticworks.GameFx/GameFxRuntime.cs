@@ -18,7 +18,7 @@ namespace doticworks.GameFx
 	public static class GameFxRuntime
 	{
 		public static void Load(){
-			Terminal.WF(".ICWORKS GameFx v1.4-D3D\r\n{0}\r\n","<Y>ModuleLoad	<B>GRuntime  	<G>Success!<W>");
+			Terminal.WF(".ICWORKS GameFx {1}-D3D\r\n{0}\r\n","<Y>ModuleLoad	<B>GRuntime  	<G>Success!<W>",GFVersion.FullStr);
 			AppDomain.CurrentDomain.UnhandledException +=(s,e)=>{
 				try{
 				System.Threading.Thread.CurrentThread.SetApartmentState(System.Threading.ApartmentState.STA);

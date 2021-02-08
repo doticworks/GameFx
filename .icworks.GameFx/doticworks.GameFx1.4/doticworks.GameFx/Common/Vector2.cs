@@ -14,7 +14,7 @@ using System.Runtime.InteropServices;
 namespace doticworks.GameFx.Common
 {
 	[Serializable]
-	public class Vector2//:SharpDX.Vector2
+	public struct Vector2//:SharpDX.Vector2
 	{
 		public void RawVector(ref SharpDX.Mathematics.Interop.RawVector2 value){
 			value.X=X;value.Y=Y;

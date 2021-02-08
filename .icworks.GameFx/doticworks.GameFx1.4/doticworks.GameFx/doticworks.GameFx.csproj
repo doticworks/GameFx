@@ -153,6 +153,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Helper\StopTimer.cs" />
     <Compile Include="Terminal.cs" />
+    <Compile Include="GFVersion.cs" />
     <Compile Include="Win32.cs" />
     <Compile Include="Win\InputBox.cs" />
     <Compile Include="Win\InputBox.Designer.cs">

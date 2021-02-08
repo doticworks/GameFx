@@ -17,11 +17,15 @@ namespace doticworks.GameFx.Common
 			X=x;Y=y;Theta=th;sY=syy;sX=sxx;
 		}
 		public Transform(){}
-		public float X=0;
-		public float Y=0;
-		public float Theta=0;
-		public float sX=1;
-		public float sY=1;
+		float X=0;
+		float Y=0;
+		float Theta=0;
+		float sX=1;
+		float sY=1;
+		
+		public Vector2 Position{
+			get{return new Vector2(X,Y);}
+		}
 		
 		public override void ToMat(ref SharpDX.Mathematics.Interop.RawMatrix3x2 mat){
 			mat.M11=(float)(sX*Math.Cos(Theta));

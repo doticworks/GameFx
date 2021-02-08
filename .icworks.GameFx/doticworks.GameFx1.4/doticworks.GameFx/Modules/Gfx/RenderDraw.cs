@@ -62,14 +62,14 @@ namespace doticworks.GameFx.Module.Gfx
 			DC.DrawBitmap(bmp,new RawRectangleF(0,0,200,200),1,BitmapInterpolationMode.Linear );
 		}
 
-		public void _Rectangle_Fill(float x,float y,float w,float h,float R,float G,float B,float A,Vector2 RotatePoint=null,Vector2 Rotate=null){
+		public void _Rectangle_Fill(float x,float y,float w,float h,float R,float G,float B,float A,Vector2 RotatePoint=Vector2.Zero,Vector2 Toward=Vector2.UnitY){
 			if(CheckOut_Rect(x,y,w,h)){return;}
 			Set_temp_rect(x,y,w,h);
 			Set_temp_color_and_brush(R,G,B,A);
 			DC.FillRectangle(temp_rect,temp_brush_solid);
 		}
 		
-		public void _Rectangle_Draw(float x,float y,float w,float h,float R,float G,float B,float A,float linew=1,Vector2 RotatePoint=null,Vector2 Rotate=null){
+		public void _Rectangle_Draw(float x,float y,float w,float h,float R,float G,float B,float A,float linew=1,Vector2 RotatePoint=Vector2.Zero,Vector2 Toward=Vector2.UnitY){
 			if(CheckOut_Rect(x,y,w,h)){return;}
 			Set_temp_rect(x,y,w,h);
 			Set_temp_color_and_brush(R,G,B,A);
@@ -85,25 +85,25 @@ namespace doticworks.GameFx.Module.Gfx
 			if(y+r<0){return true;}
 			return false;
 		}
-		public void _Circle_Draw(float x,float y,float r,float R,float G,float B,float A,float linew=1,Vector2 RotatePoint=null,Vector2 Rotate=null){
+		public void _Circle_Draw(float x,float y,float r,float R,float G,float B,float A,float linew=1,Vector2 RotatePoint=Vector2.Zero,Vector2 Toward=Vector2.UnitY){
 			if(CheckOut_Cir(x,y,r)){return;}
 			Set_temp_Ellipse(x,y,r,r);
 			Set_temp_color_and_brush(R,G,B,A);
 			DC.DrawEllipse(temp_ell,temp_brush_solid,linew);
 		}
-		public void _Circle_Fill(float x,float y,float r,float R,float G,float B,float A,Vector2 RotatePoint=null,Vector2 Rotate=null){
+		public void _Circle_Fill(float x,float y,float r,float R,float G,float B,float A,Vector2 RotatePoint=Vector2.Zero,Vector2 Toward=Vector2.UnitY){
 			if(CheckOut_Cir(x,y,r)){return;}
 			Set_temp_Ellipse(x,y,r,r);
 			Set_temp_color_and_brush(R,G,B,A);
 			DC.FillEllipse(temp_ell,temp_brush_solid);
 		}
-		public void _Circle_Draw(float x,float y,float rx,float ry,float R,float G,float B,float A,float linew=1,Vector2 RotatePoint=null,Vector2 Rotate=null){
+		public void _Circle_Draw(float x,float y,float rx,float ry,float R,float G,float B,float A,float linew=1,Vector2 RotatePoint=Vector2.Zero,Vector2 Toward=Vector2.UnitY){
 			if(CheckOut_Cir(x,y,(rx+ry)/2)){return;}
 			Set_temp_Ellipse(x,y,rx,ry);
 			Set_temp_color_and_brush(R,G,B,A);
 			DC.DrawEllipse(temp_ell,temp_brush_solid,linew);
 		}
-		public void _Circle_Fill(float x,float y,float rx,float ry,float R,float G,float B,float A,Vector2 RotatePoint=null,Vector2 Rotate=null){
+		public void _Circle_Fill(float x,float y,float rx,float ry,float R,float G,float B,float A,Vector2 RotatePoint=Vector2.Zero,Vector2 Toward=Vector2.UnitY){
 			if(CheckOut_Cir(x,y,(rx+ry)/2)){return;}
 			Set_temp_Ellipse(x,y,rx,ry);
 			Set_temp_color_and_brush(R,G,B,A);
@@ -111,14 +111,14 @@ namespace doticworks.GameFx.Module.Gfx
 		}
 		#endregion
 		#region Line
-		public void _Line_Draw(float x1,float y1,float x2,float y2,float R,float G,float B,float A,Vector2 RotatePoint=null,Vector2 Rotate=null){
+		public void _Line_Draw(float x1,float y1,float x2,float y2,float R,float G,float B,float A,Vector2 RotatePoint=Vector2.Zero,Vector2 Toward=Vector2.UnitY){
 			temp_vec2.X=x1;temp_vec2.Y=y1;temp_vec2_2.X=x2;temp_vec2_2.Y=y2;
 			Set_temp_color_and_brush(R,G,B,A);
 			DC.DrawLine(temp_vec2,temp_vec2_2,temp_brush_solid);
 		}
 		#endregion
 		#region Text
-		public void _Text(float X,float Y,string text,float size, float R,float G,float B,float A,Vector2 RotatePoint=null,Vector2 Rotate=null){
+		public void _Text(float X,float Y,string text,float size, float R,float G,float B,float A,Vector2 RotatePoint=Vector2.Zero,Vector2 Toward=Vector2.UnitY){
 			Set_temp_rect(X,Y,10000,10000);
 			Set_temp_color_and_brush(R,G,B,A);
 			if((int)temp_textfmt.FontSize-(int)size!=0){
@@ -132,12 +132,12 @@ namespace doticworks.GameFx.Module.Gfx
 		}
 		#endregion
 		#region Polygon
-		public void _Polygon_Draw(float R,float G,float B,float A,Vector2 RotatePoint=null,Vector2 Rotate=null,params float[] points_x_y){
+		public void _Polygon_Draw(float R,float G,float B,float A,Vector2 RotatePoint=Vector2.Zero,Vector2 Toward=Vector2.UnitY,params float[] points_x_y){
 			Set_temp_polygon(points_x_y);
 			Set_temp_color_and_brush(R,G,B,A);
 			DC.DrawGeometry(temp_polygon,temp_brush_solid);
 		}
-		public void _Polygon_Fill(float R,float G,float B,float A,Vector2 RotatePoint=null,Vector2 Rotate=null,params float[] points_x_y){
+		public void _Polygon_Fill(float R,float G,float B,float A,Vector2 RotatePoint=Vector2.Zero,Vector2 Toward=Vector2.UnitY,params float[] points_x_y){
 			Set_temp_polygon(points_x_y);
 			Set_temp_color_and_brush(R,G,B,A);
 			DC.FillGeometry(temp_polygon,temp_brush_solid);

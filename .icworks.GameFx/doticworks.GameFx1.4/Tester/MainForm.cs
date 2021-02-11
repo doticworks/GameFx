@@ -31,7 +31,10 @@ namespace Tester
 				load:(world)=>{
 					
 			//		world.MaxFps=1;//
-					
+					Action<Control> cd;
+					doticworks.GameFx.Module.Input.Input.Default.AcquireMouse(out cd);
+					cd(this);
+			
 					PrefabGameObject.BackGround.Clone(world.root);
 					GameObject earth = PrefabGameObject.NormalGameObject.Clone(world.root);
 					earth.Tag="Earth";
@@ -46,7 +49,7 @@ namespace Tester
 					moon.transform.Position=new Vector2(70,0);
 					Clocker._.TimerStart("moonmove",25,()=>{
 					                     //	moon.transform.Position=new Vector2((float)(moon.transform.Position.Angle+Math.PI/60),moon.transform.Position.Length(),0);;
-					                     earth.transform.Theta+=0.1f;
+					     //                earth.transform.Theta+=0.1f;
 					                     });
 					moon.components.GetComponent<ComRenderNormal>().paint=(ir)=>{
 					//	ir._Rectangle_Fill(-3,-18,6,18,0.4f,0.5f,0.5f,1);

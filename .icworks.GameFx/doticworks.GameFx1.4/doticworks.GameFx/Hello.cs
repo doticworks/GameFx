@@ -16,10 +16,19 @@ namespace doticworks.GameFx
 	public class Hello
 	{
 		public static void GameFx还是可以的(){}
-		public static string UnDone(){
+		public static string Note(){
 			string t="Undone:\r\n";
 			t+="transform.overlay.sx/sy\r\n";
 			
+			
+			t+="\r\nNotes:\r\n";
+			t+="Gfx:IRender as universal rendering interface\r\n";
+			t+="Render:draw in windows under IRender Standard\r\n";
+			t+="Render2D:only rendertargetdraw when d3d unsupport\r\n";
+			t+="\r\n";
+			t+="InputState as universal inputing interface";
+			t+="";
+			t+="";
 			return t;
 		}
 	}

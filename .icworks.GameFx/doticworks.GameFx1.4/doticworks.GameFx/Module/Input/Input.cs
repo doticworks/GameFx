@@ -7,7 +7,8 @@
  * 要改变这种模板请点击 工具|选项|代码编写|编辑标准头文件
  */
 using System;
-using SharpDX.XInput;
+using System.Windows.Forms;
+using SharpDX.DirectInput;
 namespace doticworks.GameFx.Module.Input
 {
 	/// <summary>
@@ -24,21 +25,43 @@ namespace doticworks.GameFx.Module.Input
 		public static Input Default{
 			get{return defaultmng.Value;}
 		}
-		public MouseState State_Mouse{get{return mouse.GetCurrentState();}}
-		public KeyboardState State_Keyboard{get{return keyb.GetCurrentState();}}
+		public InputState Current{get{
+				int x=0;int y=0;
+				if(mouseControl!=null){
+					var point=mouseControl.PointToClient(Control.MousePosition);x=point.X;y=point.Y;
+				}
+				var ms=mouse.GetCurrentState();
+				int z=ms.Z;
+				bool[] button=ms.Buttons;
+				var ks=keyb.GetCurrentState();
+				var keys=ks.PressedKeys;
+				
+				return new InputState(x,y,z,button,keys);}}
+		
+		public void AcquireMouse(out Action<Control> controldo){
+			Action<Control> cd=(con)=>{mouseControl=con;};
+			controldo=cd;
+		}
 		private Input(){
 			DI= new DirectInput();
+			
 		    mouse = new Mouse(DI);
 		    mouse.Properties.AxisMode = DeviceAxisMode.Absolute;
 		    mouse.Properties.BufferSize = 128;
-		//    mouse.Properties.
 		    mouse.Acquire();
+		    
+			if(mouseControl!=null){
+		    	Terminal.WF(mouseControl.PointToClient(Control.MousePosition).ToString());
+			}
+		    
 		    Console.WriteLine(mouse.GetCurrentState());
 			
 		    
 		    keyb = new Keyboard(DI);
 			keyb.Acquire();
 		}
+		Control mouseControl=null;
+		
 		DirectInput DI;
 		
 		Mouse mouse;

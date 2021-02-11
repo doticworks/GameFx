@@ -14,8 +14,9 @@ using System.Windows.Forms.VisualStyles;
 using doticworks.GameFx;
 using doticworks.GameFx.Game;
 using doticworks.GameFx.Game.Components;
-using doticworks.GameFx.Modules.Clock;
+using doticworks.GameFx.Module.Clock;
 using St=doticworks.GameFx.Helper.StopTimer;
+using doticworks.GameFx.Common;
 namespace Tester
 {
 	/// <summary>
@@ -26,16 +27,37 @@ namespace Tester
 		public MainForm()
 		{
 			InitializeComponent();
-			
 			gameBox1.GameBoxLoad(
 				load:(world)=>{
-					GameObject earth = PrefabGameObject.NodeGameObject;
+					
+			//		world.MaxFps=1;//
+					
+					PrefabGameObject.BackGround.Clone(world.root);
+					GameObject earth = PrefabGameObject.NormalGameObject.Clone(world.root);
+					earth.Tag="Earth";
+					earth.transform.Position=new Vector2(250,500);
+				//	earth.transform.Toward=new Vector2(1,1);
+					earth.components.GetComponent<ComRenderNormal>().paint=(ir)=>{
+					//	ir._Rectangle_Fill(-3,-18,6,18,0.4f,0.5f,0.5f,1);
+						ir._Circle_Fill(0,0,100,0.1f,0.1f,1f,1);//ir._Circle_Fill(50,50,50,0.3f,0.1f,0.7f,1);
+						};
+					GameObject moon = PrefabGameObject.NormalGameObject.Clone(earth);
+					moon.Tag="Moon";
+					moon.transform.Position=new Vector2(70,0);
+					Clocker._.TimerStart("moonmove",25,()=>{
+					                     //	moon.transform.Position=new Vector2((float)(moon.transform.Position.Angle+Math.PI/60),moon.transform.Position.Length(),0);;
+					                     earth.transform.Theta+=0.1f;
+					                     });
+					moon.components.GetComponent<ComRenderNormal>().paint=(ir)=>{
+					//	ir._Rectangle_Fill(-3,-18,6,18,0.4f,0.5f,0.5f,1);
+						ir._Circle_Fill(0,0,10,0.7f,0.7f,1f,1);//ir._Circle_Fill(50,50,50,0.3f,0.1f,0.7f,1);
+						};
 					
 				}
-				,loaddone:()=>
-				{
-				//	gw.LoadGame();
-				});
+				,loaddone: () =>
+				Clocker._.TimerDelay(100, () => {
+				gameBox1.gameworld.StartGame();
+			}));
 			                                            
 		}
 		void MainFormFormClosed(object sender, FormClosedEventArgs e)
@@ -44,14 +66,11 @@ namespace Tester
 		}
 		void GameBox1Click(object sender, EventArgs e)
 		{
-		//	gameBox1.gameworld.StartGame();
+			gameBox1.gameworld.StartGame();
 		}
 		void MainFormShown(object sender, EventArgs e)
 		{
-			Clocker._.TimerDelay(200, () =>
-			{
-				gameBox1.gameworld.StartGame();
-			});
+			
 		}
 		
 	}

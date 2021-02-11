@@ -48,6 +48,7 @@ namespace Hierarchy
 		tab_unconnect unc;
 		void MainFormShown(object sender, EventArgs e)
 		{
+			
 			if (eventgameworldreceived)
 			{
 				gw = Extension.Invoke_("GF_GAMEWORLD", null) as GameWorld;
@@ -58,8 +59,7 @@ namespace Hierarchy
 						main.settitle("Hierarchy - Connected to GameFx");
 					}));
 			}
-			else
-			{
+			else{
 				Extension.ExEvent += (s) => {
 					if (s == "EVENT_GAMEWORLD_LOAD")
 					{

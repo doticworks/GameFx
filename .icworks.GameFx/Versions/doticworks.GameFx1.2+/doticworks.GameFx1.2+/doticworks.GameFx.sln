@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doticworks.GameFx", "doticworks.GameFx\doticworks.GameFx.csproj", "{E5A5D9F3-A5A6-4B58-BDF9-440C8B616254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{3915E0B5-00BD-4C7A-83CE-09D3146B8F34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5A5D9F3-A5A6-4B58-BDF9-440C8B616254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A5D9F3-A5A6-4B58-BDF9-440C8B616254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A5D9F3-A5A6-4B58-BDF9-440C8B616254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A5D9F3-A5A6-4B58-BDF9-440C8B616254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3915E0B5-00BD-4C7A-83CE-09D3146B8F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3915E0B5-00BD-4C7A-83CE-09D3146B8F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3915E0B5-00BD-4C7A-83CE-09D3146B8F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3915E0B5-00BD-4C7A-83CE-09D3146B8F34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

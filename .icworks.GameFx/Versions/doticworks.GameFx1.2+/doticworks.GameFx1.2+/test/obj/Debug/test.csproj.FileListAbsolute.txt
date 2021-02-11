@@ -1,0 +1,90 @@
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\test.exe.config
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\test.exe
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\test.pdb
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\doticworks.GameFx.dll
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\doticworks.GameFx.pdb
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.MainForm.resources
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.exe
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\test.exe.config
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\test.exe
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\test.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.MainForm.resources
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.exe
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\obj\Debug\test.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\.icworks.GameFx.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\test\bin\Debug\.icworks.GameFx.pdb
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\test.exe.config
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\test.exe
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\test.pdb
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\.icworks.GameFx.dll
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\.icworks.GameFx.pdb
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\obj\Debug\test.MainForm.resources
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\obj\Debug\test.exe
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\obj\Debug\test.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\test.exe.config
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\test.exe
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\test.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\.icworks.GameFx.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Desktop.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\.icworks.GameFx.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Desktop.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Desktop.xml
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\obj\Debug\test.MainForm.resources
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\obj\Debug\test.exe
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\obj\Debug\test.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.D3DCompiler.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct2D1.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct3D10.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct3D11.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct3D11.Effects.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct3D12.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct3D9.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.DirectInput.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.DirectSound.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.DXGI.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Mathematics.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.MediaFoundation.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.RawInput.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.XAudio2.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.XInput.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.D3DCompiler.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.D3DCompiler.xml
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct2D1.xml
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct3D10.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct3D10.xml
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct3D11.xml
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct3D11.Effects.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct3D11.Effects.xml
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct3D12.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct3D12.xml
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Direct3D9.xml
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.DirectInput.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.DirectInput.xml
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.DirectSound.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.DirectSound.xml
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.DXGI.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.DXGI.xml
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Mathematics.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.Mathematics.xml
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.MediaFoundation.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.MediaFoundation.xml
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.RawInput.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.RawInput.xml
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.XAudio2.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.XAudio2.xml
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.XInput.pdb
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx1.2+\test\bin\Debug\SharpDX.XInput.xml

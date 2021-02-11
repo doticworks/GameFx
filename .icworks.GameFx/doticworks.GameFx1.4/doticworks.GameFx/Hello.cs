@@ -16,6 +16,11 @@ namespace doticworks.GameFx
 	public class Hello
 	{
 		public static void GameFx还是可以的(){}
-		public static void 哎(){}
+		public static string UnDone(){
+			string t="Undone:\r\n";
+			t+="transform.overlay.sx/sy\r\n";
+			
+			return t;
+		}
 	}
 }

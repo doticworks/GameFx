@@ -36,7 +36,7 @@ namespace doticworks.GameFx
 		public void InitiativeLoad(){
 			foreach(var item in Directory.GetFiles(System.Windows.Forms.Application.StartupPath)){
 				if(item.EndsWith(".ic")||item.EndsWith(".ic.exe")){
-					Terminal.WF("\r\nExtension	{0}		<G>Loaded\r\n",(item.Split('\\')[item.Split('\\').Length-1]).Split('.')[0]);
+					Terminal.WF("\r\nExtension	{0}	<G>Loaded",(item.Split('\\')[item.Split('\\').Length-1]).Split('.')[0]);
 					extensionnum++;
 					System.Threading.Thread t=new System.Threading.Thread(()=>{
 						System.Reflection.Assembly asm=Assembly.Load(File.ReadAllBytes(item));
@@ -51,6 +51,7 @@ namespace doticworks.GameFx
 		
 		
 		public static object Invoke_(string name, object arg){
+			Terminal.WF("\r\n{0} Invoking\r\n",name);
 			return _.Invoke(name,arg);
 		}
 		public static void Regist_(string name,Func<object,object> arg){
@@ -73,7 +74,7 @@ namespace doticworks.GameFx
 			}
 			catch(Exception e)
 			{
-				Terminal.WF("\r\n<R>Warning<W>:<Y>Some added Extension crashed\r\nThis will cause some extensions to be unnormal\r\n{0}",e.ToString());
+				Terminal.WF("\r\n<R>Warning<W>:<Y>Some added Extension crashed\r\nThis will cause <R>other extensions to be unnormal<Y>\r\n{0}",e.ToString());
 			}
 		}
 		public static int ExtensionLoaded{

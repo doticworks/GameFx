@@ -31,11 +31,11 @@ namespace doticworks.GameFx.Game.Components
 			
 		}
 		public virtual void Draw(IRender rd){
-			rd._Transform(this.Owner.x,this.Owner.y);
+			rd._OverlayTransform(Owner.transform);
 			DrawBefore(rd);
 			this.Owner.components.RI_ComNode.ChildInvoke(cr=>cr.components.RI_ComRender.Draw(rd));
 			DrawAfter(rd);
-			rd._Transform(-this.Owner.x,-this.Owner.y);
+			rd._RemoveTransform();
 //			rd.transformstack.SubtractTransform(Owner.transform);
 		}
 	}

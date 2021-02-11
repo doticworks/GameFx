@@ -151,7 +151,7 @@ namespace doticworks.GameFx.Common
 			this.M11 = value;
 		}
 
-		public Matrix(float M11, float M12, float M21, float M22, float M31, float M32)
+		public Matrix(float M11=1, float M12=0, float M21=0, float M22=1, float M31=0, float M32=0)
 		{
 			this.M11 = M11;
 			this.M12 = M12;
@@ -238,16 +238,22 @@ namespace doticworks.GameFx.Common
 			Matrix.Multiply(ref left, right, out result);
 			return result;
 		}
-
+		//left   right 
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="left">child</param>
+		/// <param name="right">parent stack</param>
+		/// <param name="result"></param>
 		public static void Multiply(ref Matrix left, ref Matrix right, out Matrix result)
 		{
 			result = new Matrix(
-				M11 = left.M11 * right.M11 + left.M12 * right.M21,
-				M12 = left.M11 * right.M12 + left.M12 * right.M22,
-				M21 = left.M21 * right.M11 + left.M22 * right.M21,
-				M22 = left.M21 * right.M12 + left.M22 * right.M22,
-				M31 = left.M31 * right.M11 + left.M32 * right.M21 + right.M31,
-				M32 = left.M31 * right.M12 + left.M32 * right.M22 + right.M32
+				M11 : left.M11 * right.M11 + left.M12 * right.M21,
+				M12 : left.M11 * right.M12 + left.M12 * right.M22,
+				M21 : left.M21 * right.M11 + left.M22 * right.M21,
+				M22 : left.M21 * right.M12 + left.M22 * right.M22,
+				M31 : left.M31 * right.M11 + left.M32 * right.M21 + right.M31,
+				M32 : left.M31 * right.M12 + left.M32 * right.M22 + right.M32
 			);
 		}
 		public static Matrix Multiply(Matrix left, Matrix right)
@@ -277,7 +283,7 @@ namespace doticworks.GameFx.Common
 			result.M32 = left.M32 / right.M32;resultx=result;
 		}
 
-		public static void Negate(ref Matrix value, out Matrix resultx)
+		public static void Negate(Matrix value, out Matrix resultx)
 		{Matrix result=Matrix.Identity;
 			result.M11 = -value.M11;
 			result.M12 = -value.M12;
@@ -290,7 +296,7 @@ namespace doticworks.GameFx.Common
 		public static Matrix Negate(Matrix value)
 		{
 			Matrix result;
-			Matrix.Negate(ref value, out result);
+			Matrix.Negate(value, out result);
 			return result;
 		}
 		public static void Scaling(ref Vector2 scale, out Matrix result)
@@ -471,7 +477,7 @@ namespace doticworks.GameFx.Common
 
 		public static Matrix operator -(Matrix value) {
 			Matrix result;
-			Matrix.Negate(ref value, out result);
+			Matrix.Negate( value, out result);
 			return result;
 		}
 
@@ -512,7 +518,9 @@ namespace doticworks.GameFx.Common
 		public static bool operator !=(Matrix left, Matrix right) {
 			return !left.Equals(ref right);
 		}
-
+		public bool Equals(ref Matrix m){
+			return M11==m.M11 &&M21==m.M21 &M31==m.M31 &&M12==m.M12 &&M22==m.M22 &&M32==m.M32;
+		}
 		public override string ToString()
 		{
 			return string.Format(CultureInfo.CurrentCulture, "[M11:{0} M12:{1}] [M21:{2} M22:{3}] [M31:{4} M32:{5}]", new object[] {

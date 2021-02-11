@@ -32,7 +32,8 @@ namespace Hierarchy
 				ir._Circle_Fill(0,0,15,0,1,0,0.2f);
 				ir._Rectangle_Fill(-0.5f,-25,1,50,1,0,0,0.4f);
 				ir._Rectangle_Fill(-25,-0.5f,50,1,0,0,1,0.4f);
-				ir._Text(0.5f,-30,"X:"+choosedgo.x.ToString()+" Y:"+choosedgo.y.ToString(),10,0,1,0,1);
+			//	ir._Text(0.5f,-30,"X:"+choosedgo.transform.Position.X.ToString()+" Y:"+choosedgo.transform.Position.X.ToString(),10,0,1,0,1);
+				ir._Text(0.5f,-30,choosedgo.transform.ToString(),10,0,1,0,1);
 			};
 			pointer.Tag = "Hierarchy Pointer";
 		}
@@ -62,7 +63,7 @@ namespace Hierarchy
 				choosedgo=tmp;
 			}
 
-			textBox1.Text = choosedgo.x.ToString() + " " + choosedgo.y.ToString();
+			textBox1.Text = choosedgo.transform.ToString();
 			resetpointer();
 			
 			if(e.Button==MouseButtons.Left){e.Node.Expand();}

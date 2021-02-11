@@ -53,7 +53,13 @@ namespace doticworks.GameFx.Game.Components
 		}
 		public override void Draw(doticworks.GameFx.Module.Gfx.IRender rd)
 		{
+			rd._OverlayTransform(Owner.transform);
+			DrawBefore(rd);
 			rd._Bitmap(keytarget,0,0);
+			DrawAfter(rd);
+			rd._RemoveTransform();;
+			
+			
 		}
 	}
 }

@@ -19,10 +19,11 @@ namespace doticworks.GameFx.Game
 		public GameObject()
 		{
 			components=new ComponentModel(this);
+			transform=new Transform();
 		}
 		public ComponentModel components;
 		public Transform transform;
-		public float x=0;public float y=0;
+	//	public float x=0;public float y=0;
 		
 		public bool Enable=true;
 		public void Destory(){
@@ -31,12 +32,13 @@ namespace doticworks.GameFx.Game
 		public GameObject Clone(){
 			if(hasparent){return Clone(parent);}
 			GameObject g=new GameObject();
+			g.Tag = Tag;
+			g.transform=transform.Copy();
 			g.components=components.Copy(g);
 			return g;
 		}
 		public GameObject Clone(GameObject parent){
-			GameObject g=new GameObject();
-			g.components=components.Copy(g);
+			GameObject g=Clone();
 			parent.components.RI_ComNode_Add(g);
 			return g;
 		}

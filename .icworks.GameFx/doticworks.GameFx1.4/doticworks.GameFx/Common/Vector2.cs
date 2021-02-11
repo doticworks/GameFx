@@ -19,12 +19,30 @@ namespace doticworks.GameFx.Common
 		public void RawVector(ref SharpDX.Mathematics.Interop.RawVector2 value){
 			value.X=X;value.Y=Y;
 		}
+/*		public const Vector2 Zero = default(Vector2);
+		public const Vector2 UnitX =Vector2();//= Vector2(1f, 0f);
+		public const Vector2 UnitY = Vector2(0f, 1f);
+		public const Vector2 One = Vector2(1f, 1f);
+		*/
 		public static readonly Vector2 Zero = default(Vector2);
+
 		public static readonly Vector2 UnitX = new Vector2(1f, 0f);
+
 		public static readonly Vector2 UnitY = new Vector2(0f, 1f);
+
 		public static readonly Vector2 One = new Vector2(1f, 1f);
+		
 		public float X;
 		public float Y;
+		
+		public float Angle{
+			get{
+				return (float)Math.Atan2(-Y,X);
+			}set{
+				Vector2 tmp=new Vector2(value,this.Length(),0);
+			}
+		}
+		
 		public bool IsNormalized {
 			get {
 				return 1f==(this.X * this.X + this.Y * this.Y);
@@ -59,10 +77,10 @@ namespace doticworks.GameFx.Common
 			}
 		}
 
-		public Vector2(float value)
+		public Vector2(float angle,float len,int haha)
 		{
-			this.X = value;
-			this.Y = value;
+			this.X = (float)Math.Cos(angle)*len;
+			this.Y = -(float)Math.Sin(angle)*len;
 		}
 
 		public Vector2(float x, float y)

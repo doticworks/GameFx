@@ -10,11 +10,8 @@
         </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="Common" t="Include">
-          <e p="Math.cs" t="Include" />
           <e p="Matrix.cs" t="Include" />
           <e p="Transform.cs" t="Include" />
-          <e p="TransformRaw.cs" t="Include" />
-          <e p="TransformStack.cs" t="Include" />
           <e p="Vector2.cs" t="Include" />
         </e>
         <e p="Dll" t="Include">
@@ -52,6 +49,7 @@
         <e p="GameBox.Designer.cs" t="Include" />
         <e p="GameBox.resx" t="Include" />
         <e p="GameFxRuntime.cs" t="Include" />
+        <e p="GFVersion.cs" t="Include" />
         <e p="Gizmos" t="Include">
           <e p="Embed.cs" t="Include" />
           <e p="GraphBehavior.cs" t="Include" />
@@ -67,7 +65,7 @@
           <e p="string.cs" t="Include" />
           <e p="Texture.cs" t="Include" />
         </e>
-        <e p="Modules" t="Include">
+        <e p="Module" t="Include">
           <e p="Clock" t="Include">
             <e p="Clocker.cs" t="Include" />
           </e>
@@ -142,6 +140,7 @@
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="Tester.csproj" t="IncludeRecursive" />
+        <e p="Text1.txt" t="Include" />
       </e>
     </e>
   </component>

@@ -41,8 +41,8 @@ namespace doticworks.GameFx.Game.Components
                 if (vy < a_friction * delta&&vy>0) vy = 0;
                 if (vy > -a_friction * delta&&vy<0) vy = 0;
                 if (vy < -a_friction * delta) vy = vy + a_friction * delta;
-                Owner.x += vx * delta;
-                Owner.y += vy * delta;
+        //        Owner.x += vx * delta;
+        //        Owner.y += vy * delta;
             };
             
         }

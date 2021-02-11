@@ -30,8 +30,8 @@ namespace doticworks.GameFx
 				
 				Win32.AllocConsole();
 				Console.Title="GameFx Terminal";
-				Console.WindowWidth=50;
-				Console.WindowHeight=15;
+				Console.WindowWidth=75;
+				Console.WindowHeight=20;
 				System.Threading.Thread t=new System.Threading.Thread(()=>{InputTrace();});t.IsBackground=true;
 				t.Start();
 			}

@@ -24,10 +24,10 @@ namespace TempKeyPad
 		{
 			InitializeComponent();
 			Extension.ExEvent += (s) => {
-				if (s == "EVENT_GAMEWORLD_LOAD")
+				if (s == "EVENT_GAMEWORLD_LOAD")//had better do internal thing in LOAD event
 				{
-					cm=Extension.Invoke_("KEYPADM", null) as ComMotion;
-					cm.a_friction = 200;
+			//		cm=Extension.Invoke_("KEYPADM", null) as ComMotion;
+			//		cm.a_friction = 200;
 				}
 			};
 		}

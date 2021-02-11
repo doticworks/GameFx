@@ -18,7 +18,7 @@ namespace doticworks.GameFx
 	public static class GameFxRuntime
 	{
 		public static void Load(){
-			Terminal.WF(".ICWORKS GameFx {1}-D3D\r\n{0}\r\n","<Y>ModuleLoad	<B>GRuntime  	<G>Success!<W>",GFVersion.FullStr);
+			Terminal.WF(".ICWORKS GameFx {1}-D3D ({2})\r\n{0}\r\n","<Y>ModuleLoad	<B>GRuntime  	<G>Success!<W>",GFVersion.FullStr,GFVersion.SimpStr);
 			AppDomain.CurrentDomain.UnhandledException +=(s,e)=>{
 				try{
 				System.Threading.Thread.CurrentThread.SetApartmentState(System.Threading.ApartmentState.STA);
@@ -55,9 +55,9 @@ namespace doticworks.GameFx
 				
 			};
 			Terminal.WF("{0}\r\n","<Y>ModuleLoad	<B>DirectBase  	<G>Success!<W>");
-			Terminal.WF("{0}","<Y>ModuleLoad	<B>Extension  	\r\n");
+			Terminal.WF("{0}","<Y>ModuleLoad	<B>Extension  	");
 			Extension.InitiativeLoad_();
-			Terminal.WF("				{0}\r\n",Extension.ExtensionLoaded==0?"<Y>NoExtension!<W>":"<Y>"+Extension.ExtensionLoaded.ToString()+"Ext <G>Loaded!<W>");
+			Terminal.WF("\r\n				{0}\r\n",Extension.ExtensionLoaded==0?"<Y>NoExtension!<W>":"<Y>"+Extension.ExtensionLoaded.ToString()+"Ext <G>Loaded!<W>");
 //			Terminal.WF("<W>.ICWORKS GameFx v1.4-D3D\r\n{0}\r\n{1}\r\n","LoadingRuntime	<G>Success!<W>",
 //			            "LoadingD3D	"+(GameFx.Module.GraphicsDevice.Default.SupportD3D?"<G>D3DSupport!<w>":"<R>D3DUnSupport(All Effect will not work)")
 //			           );

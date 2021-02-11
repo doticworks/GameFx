@@ -16,7 +16,6 @@ namespace doticworks.GameFx
 	public static class GFVersion
 	{
 		static Version ver= System.Reflection.Assembly.GetExecutingAssembly().GetName().Version;
-		static Version ver= System.Reflection.Assembly.GetExecutingAssembly().Version;
 		public static int AvailablePlatform{get{return ver.Major;}}
 		public static int MajorV{get{return ver.Minor;}}
 		public static int MinorV{get{return ver.Revision;}}
@@ -29,8 +28,10 @@ namespace doticworks.GameFx
 						case 2:{tmp=tmp+"Windows7 ";break;}
 						case 4:{tmp=tmp+"Windows10 ";break;}
 						case 5:{tmp=tmp+".NET 5";break;}
+					default:{tmp=tmp+"UnKnown";break;}
 				}
-				tmp=tmp+ver.Minor.ToString()+"."+ver.Revision.ToString()+"."+ver.Build.ToString()+"."+
+				tmp=tmp+ver.Minor.ToString()+"."+ver.Build.ToString()+"."+ver.Revision.ToString();
+				return tmp;
 			}
 		}
 		public static string SimpStr{

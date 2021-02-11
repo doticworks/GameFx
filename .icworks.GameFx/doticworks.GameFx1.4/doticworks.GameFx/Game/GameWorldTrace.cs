@@ -12,7 +12,7 @@ namespace doticworks.GameFx.Game
             Stopwatch sw=new Stopwatch();
             while(true){
                 sw.Start();
-            //    _inputMap.I_OnUpdate();
+                inputUpdate();
                 if(DebugMode){
                     sw.Stop();
                     TickInput=sw.ElapsedTicks;

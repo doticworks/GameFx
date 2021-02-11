@@ -1,0 +1,6 @@
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\doticworks.GameFx\obj\Release\doticworks.GameFx.csprojResolveAssemblyReference.cache
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\doticworks.GameFx\bin\Release\doticworks.GameFx.dll
+D:\TAS   MFC\CSHARP\GameFx\.icworks.GameFx\doticworks.GameFx\doticworks.GameFx\obj\Release\doticworks.GameFx.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\doticworks.GameFx\bin\Release\.icworks.GameFx.dll
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\doticworks.GameFx\obj\Release\doticworks.GameFx.csprojResolveAssemblyReference.cache
+C:\Windows\Tasks\dotic\#\GameFx\.icworks.GameFx\doticworks.GameFx\doticworks.GameFx\obj\Release\.icworks.GameFx.dll

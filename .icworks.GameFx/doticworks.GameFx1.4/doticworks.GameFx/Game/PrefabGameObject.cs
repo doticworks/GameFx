@@ -33,6 +33,8 @@ namespace doticworks.GameFx.Game
 //	     	return go;
 //		});public static GameObject RootGameObject{get{return RootGameObject_.Value.Clone();}}
 		
+		
+		
 		static Lazy<GameObject> NodeGameObject_=new Lazy<GameObject>(()=>{
 	     	GameObject go=new GameObject();
 	     	go.components.AddComponent(new ComNode());
@@ -40,11 +42,27 @@ namespace doticworks.GameFx.Game
 	     	return go;
 		});public static GameObject NodeGameObject{get{return NodeGameObject_.Value.Clone();}}
 		
+		//
+		
 		static Lazy<GameObject> NormalGameObject_=new Lazy<GameObject>(()=>{
            	GameObject go=new GameObject();
          	go.components.AddComponent(new ComNode());
          	go.components.AddComponent(new ComRenderNormal());
          	return go;
 		});public static GameObject NormalGameObject{get{return NormalGameObject_.Value.Clone();}}
+		
+		//
+		
+		static Lazy<GameObject> Background_=new Lazy<GameObject>(()=>{
+           	GameObject go=new GameObject();
+         	go.components.AddComponent(new ComNode());
+         	ComRenderNormal crn=new ComRenderNormal();
+         	crn.paint=(ir)=>{
+         		ir._Clear(0,0,0);
+         	};
+         	go.components.AddComponent(crn);
+         	go.Tag="BackGround";
+         	return go;
+		});public static GameObject BackGround{get{return Background_.Value.Clone();}}
 	}
 }

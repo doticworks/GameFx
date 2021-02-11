@@ -9,7 +9,7 @@
 using System;
 using System.Threading;
 using doticworks.GameFx.Game;
-using doticworks.GameFx.Module.Gfx;
+using doticworks.GameFx.Module.Gfx;using doticworks.GameFx.Module;
 using doticworks.GameFx.Game.Components;
 namespace doticworks.GameFx.Game
 {
@@ -25,7 +25,13 @@ namespace doticworks.GameFx.Game
 
 		public void LoadGame()
 		{
+			bool loadmonitorflag=false;
+			Module.Clock.Clocker._.TimerDelay(1000,()=>{if(!loadmonitorflag){
+          		Terminal.WF("<R>\r\nWARNING: loader thread no response after 1000 ms!!\r\nthere are some error\r\n<W>We will try restart it after 1000ms\r\n");
+          		Module.Clock.Clocker._.TimerDelay(1000,()=>{this.StartGame();},()=>{return !loadmonitorflag;});
+			                                  	}});
 			presenter = new Presenter(TarHandle, root);
+			ia=new doticworks.GameFx.Module.Input.InputAnalyzer(out inputUpdate);
 			root = PrefabGameObject.GetRoot(presenter.swapbuffer, (w, h) => presenter.OnResize(TarHandle, w, h));
 			root.components.GetComponent<ComRooter>().gw = this;
 			root.Tag = "GameWorld Root";
@@ -45,9 +51,10 @@ namespace doticworks.GameFx.Game
 		//	Invoke(new MethodInvoker(() =>
 		//	{
 			Extension.Regist_("GF_GAMEWORLD", (o) => { return this; });
-			Extension.DoEvent("EVENT_GAMEWORLD_LOAD");
+			Extension.DoEvent("EVENT_GAMEWORLD_LOAD");//Terminal.WF("DOEVENT");
 		//	}));
 			unloaded=false;
+			loadmonitorflag=true;
 		}
 		bool unloaded=true;
 		public int MaxFps=40;
@@ -56,6 +63,10 @@ namespace doticworks.GameFx.Game
 		
 		public IntPtr TarHandle=IntPtr.Zero;
 		public Presenter presenter;
+		
+		public Module.Input.InputAnalyzer ia;
+		Action inputUpdate;
+		
 		public Action<GameWorld> Loader;
 		public GameObject root;
 		private Thread trace;
@@ -72,7 +83,8 @@ namespace doticworks.GameFx.Game
 		{
 			if(isworking)
 			{
-				isworking = false;trace.Suspend();}
+				isworking = false;
+				trace.Suspend();}
 		}
 	}
 }

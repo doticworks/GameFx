@@ -1,0 +1,7 @@
+手机上打的 以下为转义表
+ go~gameobject
+配置一个gameobj 并把它加入gameworld这个gameobject就会被执行
+它的各个组件就会按照配置好的运行
+
+gameobject是一个具体的单位
+component实现具体的功能 如画图 输入

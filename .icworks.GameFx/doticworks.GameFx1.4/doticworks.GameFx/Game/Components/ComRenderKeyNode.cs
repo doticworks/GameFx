@@ -42,7 +42,7 @@ namespace doticworks.GameFx.Game.Components
 		public Action<int,int> OnResizeBuffer=(w,h)=>{};
 		public override Component Copy()
 		{
-			return base.Copy();
+			throw new Exception("当时偷懒还没写啊");
 		}
 		Bitmap1 keytarget;
 		public virtual void DrawKeyNode(doticworks.GameFx.Module.Gfx.IRender rd){

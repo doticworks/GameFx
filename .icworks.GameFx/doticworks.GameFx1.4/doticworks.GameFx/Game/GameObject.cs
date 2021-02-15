@@ -30,7 +30,7 @@ namespace doticworks.GameFx.Game
 			
 		}
 		public GameObject Clone(){
-			if(hasparent){return Clone(parent);}
+		//	if(hasparent){return Clone(parent);}
 			GameObject g=new GameObject();
 			g.Tag = Tag;
 			g.transform=transform.Copy();
@@ -39,11 +39,11 @@ namespace doticworks.GameFx.Game
 		}
 		public GameObject Clone(GameObject parent){
 			GameObject g=Clone();
+			if(parent==null){return g;}
 			parent.components.RI_ComNode_Add(g);
 			return g;
 		}
 		public string Tag="UnTagged";
-		public GameWorld rootworld;
 		public GameObject parent=null;
 		public bool hasparent=false;
 		public GameWorld world{

@@ -21,8 +21,8 @@ namespace doticworks.GameFx.Game.Components
 		public override void Load(ComponentModel model)
 		{
 			base.Load(model);
-			Owner.components.RI_ComEvent = this;
-			Owner.components.onupdate += (t) =>
+			model.RI_ComEvent = this;
+			model.onupdate += (t) =>
 			{
 				if (Enable)
 				{
@@ -38,9 +38,9 @@ namespace doticworks.GameFx.Game.Components
 		public override Component Copy()
 		{
 			ComEvent ce = new ComEvent();
-			ce.OnUpdate = OnUpdate.Clone() as Action<float>;
-			ce.OnWorldStart = OnWorldStart.Clone()as Action;
-			ce.OnResize = OnResize.Clone()as Action;
+			ce.OnUpdate=(OnUpdate==null)?null:OnUpdate.Clone() as Action<float>;
+			ce.OnWorldStart=OnWorldStart==null?null:OnWorldStart.Clone()as Action;
+			ce.OnResize=OnResize==null?null:OnResize.Clone()as Action;
 			return ce;
 		}
 	}

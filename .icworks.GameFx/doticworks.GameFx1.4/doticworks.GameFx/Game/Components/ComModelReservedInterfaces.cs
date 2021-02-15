@@ -21,6 +21,8 @@ namespace doticworks.GameFx.Game.Components
 		public Action<Action<GameObject>> RI_ComNode_Enum;
 		///
 		public ComRender RI_ComRender=null;
+		
+		public ComInput RI_ComInput=null;
 
 		public ComEvent RI_ComEvent = null;
 		public event Action<float> onupdate;

@@ -19,11 +19,12 @@ namespace doticworks.GameFx.Game.Components
 		{
 		}
 		public Action<IRender> paint;
+		
 		public override Component Copy()
 		{
 			ComRenderNormal crn=new ComRenderNormal();
 			if(paint!=null){
-				crn.paint=paint.Clone() as Action<IRender>;
+				crn.paint=paint==null?null:paint.Clone() as Action<IRender>;
 			}
 			return crn;
 		}

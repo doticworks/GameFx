@@ -111,7 +111,7 @@ namespace doticworks.GameFx.Common
 			return this.X * this.X + this.Y * this.Y;
 		}
 
-		public void Normalize()
+		public Vector2 Normalize()
 		{
 			float num = this.Length();
 			if (!(num==0)) {
@@ -119,6 +119,7 @@ namespace doticworks.GameFx.Common
 				this.X *= num2;
 				this.Y *= num2;
 			}
+			return this;
 		}
 
 		public float[] ToArray()

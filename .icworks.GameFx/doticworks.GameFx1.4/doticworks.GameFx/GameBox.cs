@@ -33,6 +33,7 @@ namespace doticworks.GameFx
 			IntPtr h=IntPtr.Zero;
 			Invoker(()=>{h=Handle;});
 			gameworld.TarHandle=h;
+			
 			if(this.BackgroundImage==null){
 				Invoker(()=>{
 				BackgroundImage=new Bitmap(doticworks.GameFx.IO.Assetor.QuickGetS(typeof(GameBox),"doticworks.GameFx.Asset.logo1.png"));
@@ -41,9 +42,11 @@ namespace doticworks.GameFx
 			if(load!=null){
 				gameworld.Loader=(world)=>{
 					load(world);
-					
-					
+					Action<Control> cd;
+					doticworks.GameFx.Module.Input.Input.Default.AcquireMouse(out cd);
+					cd(this);
 				};
+				
 //				gameworld.LoadGame();
 			}
 			}).Start();

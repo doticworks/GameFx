@@ -20,13 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fe24301-d4e2-4ef9-889f-b2020eadd476" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Template/Samples/Learn1.4#1/Learn1.4#1.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Template/Samples/Learn1.4#1/Learn1.4#1/Learn1.4#1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Template/Samples/Learn1.4#1/Learn1.4#1/MainForm.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Template/Samples/Learn1.4#1/Learn1.4#1/MainForm.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Template/Samples/Learn1.4#1/Learn1.4#1/MainForm.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Template/Samples/Learn1.4#1/Learn1.4#1/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Template/Samples/Learn1.4#1/Learn1.4#1/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Template/Samples/Learn1.4#1/Learn1.4#1/app.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/Dll/SharpDX.DirectSound.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComInput.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/Module/Input/comparisontable.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doticworks.GameFx/Module/Sound/AudioDevice.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Versions/doticworks.GameFx1.2+/doticworks.GameFx1.2+/doticworks.GameFx/bin/Debug/SharpDX.MediaFoundation.dll" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.doticworks.GameFx/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.doticworks.GameFx/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.doticworks.GameFx/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.doticworks.GameFx/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/MainForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/MainForm.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/bin/Debug/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/bin/Debug/.icworks.GameFx.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/bin/Debug/.icworks.GameFx.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/bin/Debug/.icworks.GameFx.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/bin/Debug/Hierarchy.ic.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/bin/Debug/Hierarchy.ic.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/bin/Debug/Hierarchy.ic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/bin/Debug/Hierarchy.ic.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/obj/Debug/Hierarchy.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/obj/Debug/Hierarchy.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/obj/Debug/Hierarchy.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/obj/Debug/Hierarchy.csprojResolveAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/obj/Debug/Hierarchy.ic.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/obj/Debug/Hierarchy.ic.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extensions/Hierarchy/obj/Debug/Hierarchy.ic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/Hierarchy/obj/Debug/Hierarchy.ic.pdb" afterDir="false" />
@@ -37,10 +50,13 @@
       <change beforePath="$PROJECT_DIR$/Extensions/TempKeyPad/bin/Debug/.icworks.GameFx.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/TempKeyPad/bin/Debug/.icworks.GameFx.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extensions/TempKeyPad/bin/Debug/TempKeyPad.ic.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/TempKeyPad/bin/Debug/TempKeyPad.ic.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extensions/TempKeyPad/bin/Debug/TempKeyPad.ic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/TempKeyPad/bin/Debug/TempKeyPad.ic.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Extensions/TempKeyPad/obj/Debug/TempKeyPad.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/TempKeyPad/obj/Debug/TempKeyPad.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extensions/TempKeyPad/obj/Debug/TempKeyPad.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/TempKeyPad/obj/Debug/TempKeyPad.csprojResolveAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extensions/TempKeyPad/obj/Debug/TempKeyPad.ic.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/TempKeyPad/obj/Debug/TempKeyPad.ic.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Extensions/TempKeyPad/obj/Debug/TempKeyPad.ic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Extensions/TempKeyPad/obj/Debug/TempKeyPad.ic.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tester/MainForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/MainForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/Text1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/Text1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tester/bin/Debug/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/bin/Debug/.icworks.GameFx.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tester/bin/Debug/.icworks.GameFx.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/bin/Debug/.icworks.GameFx.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tester/bin/Debug/Hierarchy.ic.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/bin/Debug/Hierarchy.ic.exe" afterDir="false" />
@@ -49,37 +65,46 @@
       <change beforePath="$PROJECT_DIR$/Tester/bin/Debug/TempKeyPad.ic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/bin/Debug/TempKeyPad.ic.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tester/bin/Debug/Tester.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/bin/Debug/Tester.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tester/bin/Debug/Tester.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/bin/Debug/Tester.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/bin/Release/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/bin/Release/.icworks.GameFx.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/bin/Release/Tester.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/bin/Release/Tester.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/obj/Debug/Tester.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/obj/Debug/Tester.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tester/obj/Debug/Tester.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/obj/Debug/Tester.csprojResolveAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tester/obj/Debug/Tester.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/obj/Debug/Tester.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tester/obj/Debug/Tester.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/obj/Debug/Tester.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Common/Matrix.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Common/Matrix.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/obj/Release/Tester.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/obj/Release/Tester.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/obj/Release/Tester.csproj.GenerateResource.Cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/obj/Release/Tester.csproj.GenerateResource.Cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/obj/Release/Tester.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/obj/Release/Tester.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tester/obj/Release/Tester.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tester/obj/Release/Tester.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Common/Transform.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Common/Transform.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Common/TransformRaw.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Common/TransformStack.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Common/Vector2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Common/Vector2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Extension.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Extension.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/GFVersion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/GFVersion.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComMotion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComMotion.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRender.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRender.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/GFVersion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Environment.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComModelReservedInterfaces.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComModelReservedInterfaces.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRenderKeyNode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRenderKeyNode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRenderNormal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRenderNormal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/Component.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/Components/Component.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/GameObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/GameObject.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldTrace.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldTrace.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Game/PrefabGameObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Game/PrefabGameObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/GameBox.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/GameBox.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/GameBox.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/GameBox.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doticworks.GameFx/GameFxRuntime.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/GameFxRuntime.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Modules/Clock/Clocker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Module/Clock/Clocker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/GraphicsDevice.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Module/Gfx/GraphicsDevice.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/IRender.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Module/Gfx/IRender.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/Presenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Module/Gfx/Presenter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/Render.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Module/Gfx/Render.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/Render2D.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Module/Gfx/Render2D.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/RenderDraw.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Module/Gfx/RenderDraw.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/RenderTemps.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Module/Gfx/RenderTemps.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Terminal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Terminal.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Module/Input/Input.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Module/Input/Input.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Module/Input/InputAnalyzer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Module/Input/InputAnalyzer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/Properties/AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doticworks.GameFx/bin/Debug/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/bin/Debug/.icworks.GameFx.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doticworks.GameFx/bin/Debug/.icworks.GameFx.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/bin/Debug/.icworks.GameFx.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/bin/Release/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/bin/Release/.icworks.GameFx.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doticworks.GameFx/doticworks.GameFx.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/doticworks.GameFx.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/.icworks.GameFx.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/.icworks.GameFx.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/.icworks.GameFx.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/doticworks.GameFx.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/doticworks.GameFx.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/doticworks.GameFx.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/obj/Debug/doticworks.GameFx.csprojResolveAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/obj/Release/.icworks.GameFx.dll" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/obj/Release/.icworks.GameFx.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/obj/Release/doticworks.GameFx.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/obj/Release/doticworks.GameFx.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/obj/Release/doticworks.GameFx.csproj.GenerateResource.Cache" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/obj/Release/doticworks.GameFx.csproj.GenerateResource.Cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doticworks.GameFx/obj/Release/doticworks.GameFx.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/doticworks.GameFx/obj/Release/doticworks.GameFx.csprojResolveAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,23 +131,31 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Tester/MainForm.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/A8973E94-F04F-4417-83B1-23489D14DB50/72/c716424a/02000004pdb.il" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tester/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/93BE256A-5B09-4784-82A9-9940D7A03781/bb/7443a6e0/02000002pdb.il" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/039A630E-4BDC-4C5E-AD52-75D219BC316B/42/1736687d/02000004pdb.il" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/GameFxRuntime.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/E8F22B87-A1EF-412F-838B-21A4976E30DE/2b/3b2c0375/02000002pdb.il" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6DDFAE8-5AD3-49AD-9B0D-79BC71506561/e3/bd4cf365/TimerQueueTimer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6DDFAE8-5AD3-49AD-9B0D-79BC71506561/d7/4e5a4085/TimerQueue.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/E7175787-B6ED-43AB-AD31-E2CE41EEFB8C/94/fac9cb4e/02000002pdb.il" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Module/Input/Input.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/PrefabGameObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Module/Gfx/GraphicsDevice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldTrace.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Extensions/TempKeyPad/MainForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6DDFAE8-5AD3-49AD-9B0D-79BC71506561/52/2cdfcc9c/Lazy`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/GameObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComponentModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComModelReservedInterfaces.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6DDFAE8-5AD3-49AD-9B0D-79BC71506561/f7/11d958e5/List`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRenderKeyNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Environment.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComMotion.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/Component.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRenderNormal.cs" root0="FORCE_HIGHLIGHTING" />
@@ -133,6 +166,7 @@
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Common/Matrix.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Common/Transform.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Extension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Terminal.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/Helper/StopTimer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6DDFAE8-5AD3-49AD-9B0D-79BC71506561/ed/ba924a64/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/doticworks.GameFx/GameBox.cs" root0="FORCE_HIGHLIGHTING" />
@@ -153,30 +187,37 @@
         <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRenderNormal.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Extension.cs" />
         <option value="$PROJECT_DIR$/Hierarchy/MainForm.cs" />
-        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComNode.cs" />
         <option value="$PROJECT_DIR$/Hierarchy/tab_main.cs" />
-        <option value="$PROJECT_DIR$/doticworks.GameFx/GameBox.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Modules/Clock/Clocker.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldEvents.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldData.cs" />
         <option value="$PROJECT_DIR$/Extensions/TempKeyPad/MainForm.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/Render.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComRenderKeyNode.cs" />
-        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/PrefabGameObject.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/Presenter.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Modules/Gfx/GraphicsDevice.cs" />
         <option value="$PROJECT_DIR$/Tester/g.Designer.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/IComUpdate.cs" />
-        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldTrace.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComModelReservedInterfaces.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComEvent.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComMotion.cs" />
-        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs" />
-        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComponentModel.cs" />
         <option value="$PROJECT_DIR$/Extensions/Hierarchy/tab_main.cs" />
-        <option value="$PROJECT_DIR$/Tester/MainForm.cs" />
-        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/GameObject.cs" />
         <option value="$PROJECT_DIR$/doticworks.GameFx/Common/Transform.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorldTrace.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Module/Input/Input.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/GFVersion.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Environment.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/GameFxRuntime.cs" />
+        <option value="$PROJECT_DIR$/Tester/Program.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/PrefabGameObject.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/GameBox.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComponentModel.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComInput.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/Component.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/GameObject.cs" />
+        <option value="$PROJECT_DIR$/Tester/MainForm.cs" />
+        <option value="$PROJECT_DIR$/doticworks.GameFx/Game/Components/ComNode.cs" />
       </list>
     </option>
   </component>
@@ -302,6 +343,9 @@
       <workItem from="1612787102100" duration="1367000" />
       <workItem from="1612846546077" duration="145000" />
       <workItem from="1612866833289" duration="2421000" />
+      <workItem from="1613108905259" duration="190000" />
+      <workItem from="1613219829502" duration="3053000" />
+      <workItem from="1613389319527" duration="2814000" />
     </task>
     <servers />
   </component>
@@ -326,90 +370,90 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="381" height="466" key="DebuggerActiveHint" timestamp="1612525719101">
+    <state width="576" height="466" key="DebuggerActiveHint" timestamp="1613391870190">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="381" height="466" key="DebuggerActiveHint/0.0.1600.984@0.0.1600.984" timestamp="1612525719101" />
-    <state width="1556" height="196" key="GridCell.Tab.0.bottom" timestamp="1612873244409">
+    <state width="576" height="466" key="DebuggerActiveHint/0.0.1600.984@0.0.1600.984" timestamp="1613391870190" />
+    <state width="1556" height="196" key="GridCell.Tab.0.bottom" timestamp="1613393397167">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="196" key="GridCell.Tab.0.bottom/0.0.1600.984@0.0.1600.984" timestamp="1612873244409" />
-    <state width="1556" height="196" key="GridCell.Tab.0.center" timestamp="1612873244409">
+    <state width="1556" height="196" key="GridCell.Tab.0.bottom/0.0.1600.984@0.0.1600.984" timestamp="1613393397167" />
+    <state width="1556" height="196" key="GridCell.Tab.0.center" timestamp="1613393397167">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="196" key="GridCell.Tab.0.center/0.0.1600.984@0.0.1600.984" timestamp="1612873244409" />
-    <state width="1556" height="196" key="GridCell.Tab.0.left" timestamp="1612873244409">
+    <state width="1556" height="196" key="GridCell.Tab.0.center/0.0.1600.984@0.0.1600.984" timestamp="1613393397167" />
+    <state width="1556" height="196" key="GridCell.Tab.0.left" timestamp="1613393397167">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="196" key="GridCell.Tab.0.left/0.0.1600.984@0.0.1600.984" timestamp="1612873244409" />
-    <state width="1556" height="196" key="GridCell.Tab.0.right" timestamp="1612873244409">
+    <state width="1556" height="196" key="GridCell.Tab.0.left/0.0.1600.984@0.0.1600.984" timestamp="1613393397167" />
+    <state width="1556" height="196" key="GridCell.Tab.0.right" timestamp="1613393397167">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="196" key="GridCell.Tab.0.right/0.0.1600.984@0.0.1600.984" timestamp="1612873244409" />
-    <state width="1556" height="346" key="GridCell.Tab.1.bottom" timestamp="1612873244400">
+    <state width="1556" height="196" key="GridCell.Tab.0.right/0.0.1600.984@0.0.1600.984" timestamp="1613393397167" />
+    <state width="1556" height="346" key="GridCell.Tab.1.bottom" timestamp="1613393397158">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="346" key="GridCell.Tab.1.bottom/0.0.1600.984@0.0.1600.984" timestamp="1612873244400" />
-    <state width="1556" height="346" key="GridCell.Tab.1.center" timestamp="1612873244400">
+    <state width="1556" height="346" key="GridCell.Tab.1.bottom/0.0.1600.984@0.0.1600.984" timestamp="1613393397158" />
+    <state width="1556" height="346" key="GridCell.Tab.1.center" timestamp="1613393397157">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="346" key="GridCell.Tab.1.center/0.0.1600.984@0.0.1600.984" timestamp="1612873244400" />
-    <state width="1556" height="346" key="GridCell.Tab.1.left" timestamp="1612873244400">
+    <state width="1556" height="346" key="GridCell.Tab.1.center/0.0.1600.984@0.0.1600.984" timestamp="1613393397157" />
+    <state width="1556" height="346" key="GridCell.Tab.1.left" timestamp="1613393397157">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="346" key="GridCell.Tab.1.left/0.0.1600.984@0.0.1600.984" timestamp="1612873244400" />
-    <state width="1556" height="346" key="GridCell.Tab.1.right" timestamp="1612873244400">
+    <state width="1556" height="346" key="GridCell.Tab.1.left/0.0.1600.984@0.0.1600.984" timestamp="1613393397157" />
+    <state width="1556" height="346" key="GridCell.Tab.1.right" timestamp="1613393397158">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="346" key="GridCell.Tab.1.right/0.0.1600.984@0.0.1600.984" timestamp="1612873244400" />
-    <state width="1556" height="346" key="GridCell.Tab.2.bottom" timestamp="1612873244401">
+    <state width="1556" height="346" key="GridCell.Tab.1.right/0.0.1600.984@0.0.1600.984" timestamp="1613393397158" />
+    <state width="1556" height="346" key="GridCell.Tab.2.bottom" timestamp="1613393397158">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="346" key="GridCell.Tab.2.bottom/0.0.1600.984@0.0.1600.984" timestamp="1612873244401" />
-    <state width="1556" height="346" key="GridCell.Tab.2.center" timestamp="1612873244400">
+    <state width="1556" height="346" key="GridCell.Tab.2.bottom/0.0.1600.984@0.0.1600.984" timestamp="1613393397158" />
+    <state width="1556" height="346" key="GridCell.Tab.2.center" timestamp="1613393397158">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="346" key="GridCell.Tab.2.center/0.0.1600.984@0.0.1600.984" timestamp="1612873244400" />
-    <state width="1556" height="346" key="GridCell.Tab.2.left" timestamp="1612873244400">
+    <state width="1556" height="346" key="GridCell.Tab.2.center/0.0.1600.984@0.0.1600.984" timestamp="1613393397158" />
+    <state width="1556" height="346" key="GridCell.Tab.2.left" timestamp="1613393397158">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="346" key="GridCell.Tab.2.left/0.0.1600.984@0.0.1600.984" timestamp="1612873244400" />
-    <state width="1556" height="346" key="GridCell.Tab.2.right" timestamp="1612873244400">
+    <state width="1556" height="346" key="GridCell.Tab.2.left/0.0.1600.984@0.0.1600.984" timestamp="1613393397158" />
+    <state width="1556" height="346" key="GridCell.Tab.2.right" timestamp="1613393397158">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="346" key="GridCell.Tab.2.right/0.0.1600.984@0.0.1600.984" timestamp="1612873244400" />
-    <state width="1556" height="346" key="GridCell.Tab.3.bottom" timestamp="1612873244401">
+    <state width="1556" height="346" key="GridCell.Tab.2.right/0.0.1600.984@0.0.1600.984" timestamp="1613393397158" />
+    <state width="1556" height="346" key="GridCell.Tab.3.bottom" timestamp="1613393397158">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="346" key="GridCell.Tab.3.bottom/0.0.1600.984@0.0.1600.984" timestamp="1612873244401" />
-    <state width="1556" height="346" key="GridCell.Tab.3.center" timestamp="1612873244401">
+    <state width="1556" height="346" key="GridCell.Tab.3.bottom/0.0.1600.984@0.0.1600.984" timestamp="1613393397158" />
+    <state width="1556" height="346" key="GridCell.Tab.3.center" timestamp="1613393397158">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="346" key="GridCell.Tab.3.center/0.0.1600.984@0.0.1600.984" timestamp="1612873244401" />
-    <state width="1556" height="346" key="GridCell.Tab.3.left" timestamp="1612873244401">
+    <state width="1556" height="346" key="GridCell.Tab.3.center/0.0.1600.984@0.0.1600.984" timestamp="1613393397158" />
+    <state width="1556" height="346" key="GridCell.Tab.3.left" timestamp="1613393397158">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="346" key="GridCell.Tab.3.left/0.0.1600.984@0.0.1600.984" timestamp="1612873244401" />
-    <state width="1556" height="346" key="GridCell.Tab.3.right" timestamp="1612873244401">
+    <state width="1556" height="346" key="GridCell.Tab.3.left/0.0.1600.984@0.0.1600.984" timestamp="1613393397158" />
+    <state width="1556" height="346" key="GridCell.Tab.3.right" timestamp="1613393397158">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="346" key="GridCell.Tab.3.right/0.0.1600.984@0.0.1600.984" timestamp="1612873244401" />
-    <state width="1556" height="346" key="GridCell.Tab.4.bottom" timestamp="1612873244401">
+    <state width="1556" height="346" key="GridCell.Tab.3.right/0.0.1600.984@0.0.1600.984" timestamp="1613393397158" />
+    <state width="1556" height="346" key="GridCell.Tab.4.bottom" timestamp="1613393397158">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="346" key="GridCell.Tab.4.bottom/0.0.1600.984@0.0.1600.984" timestamp="1612873244401" />
-    <state width="1556" height="346" key="GridCell.Tab.4.center" timestamp="1612873244401">
+    <state width="1556" height="346" key="GridCell.Tab.4.bottom/0.0.1600.984@0.0.1600.984" timestamp="1613393397158" />
+    <state width="1556" height="346" key="GridCell.Tab.4.center" timestamp="1613393397158">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="346" key="GridCell.Tab.4.center/0.0.1600.984@0.0.1600.984" timestamp="1612873244401" />
-    <state width="1556" height="346" key="GridCell.Tab.4.left" timestamp="1612873244401">
+    <state width="1556" height="346" key="GridCell.Tab.4.center/0.0.1600.984@0.0.1600.984" timestamp="1613393397158" />
+    <state width="1556" height="346" key="GridCell.Tab.4.left" timestamp="1613393397158">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="346" key="GridCell.Tab.4.left/0.0.1600.984@0.0.1600.984" timestamp="1612873244401" />
-    <state width="1556" height="346" key="GridCell.Tab.4.right" timestamp="1612873244401">
+    <state width="1556" height="346" key="GridCell.Tab.4.left/0.0.1600.984@0.0.1600.984" timestamp="1613393397158" />
+    <state width="1556" height="346" key="GridCell.Tab.4.right" timestamp="1613393397158">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
-    <state width="1556" height="346" key="GridCell.Tab.4.right/0.0.1600.984@0.0.1600.984" timestamp="1612873244401" />
+    <state width="1556" height="346" key="GridCell.Tab.4.right/0.0.1600.984@0.0.1600.984" timestamp="1613393397158" />
     <state x="616" y="190" key="RiderGenerateDialog" timestamp="1612510256066">
       <screen x="0" y="0" width="1600" height="984" />
     </state>
@@ -437,46 +481,25 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs</url>
-          <line>38</line>
-          <properties documentPath="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs" initialLine="38">
+          <url>file://$PROJECT_DIR$/Tester/MainForm.cs</url>
+          <line>61</line>
+          <properties documentPath="$PROJECT_DIR$/Tester/MainForm.cs" initialLine="58">
             <startOffsets>
-              <option value="1170" />
+              <option value="2165" />
             </startOffsets>
             <endOffsets>
-              <option value="1204" />
+              <option value="2167" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs</url>
-          <line>37</line>
-          <properties documentPath="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs" initialLine="37">
-            <startOffsets>
-              <option value="1153" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1166" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs</url>
-          <line>36</line>
-          <properties documentPath="$PROJECT_DIR$/doticworks.GameFx/Game/GameWorld.cs" initialLine="36">
-            <startOffsets>
-              <option value="1124" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1149" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="17" />
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="doticworks.GameFx.Game.GameObject" fieldName="parent" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="masterDetails">
     <states>

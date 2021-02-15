@@ -1,4 +1,5 @@
-﻿GameObject back= PrefabGameObject.NormalGameObject;
+﻿
+GameObject back= PrefabGameObject.NormalGameObject;
 					back.Tag = "back";
 					GameObject g= PrefabGameObject.NormalGameObject;
 					GameObject earth = PrefabGameObject.NodeGameObject;

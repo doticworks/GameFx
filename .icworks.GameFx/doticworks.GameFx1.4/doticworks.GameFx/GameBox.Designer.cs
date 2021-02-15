@@ -28,11 +28,10 @@ namespace doticworks.GameFx
 			}
 			base.Dispose(disposing);
 		}
-		
+
 		/// <summary>
-		/// This method is required for Windows Forms designer support.
-		/// Do not change the method contents inside the source code editor. The Forms designer might
-		/// not be able to load this method if it was changed manually.
+		/// Required method for Designer support - do not modify
+		/// the contents of this method with the code editor.
 		/// </summary>
 		private void InitializeComponent()
 		{
@@ -45,13 +44,12 @@ namespace doticworks.GameFx
 			this.BackColor = System.Drawing.Color.Silver;
 			this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
 			this.DoubleBuffered = true;
-			this.Font = new System.Drawing.Font("Segoe UI Symbol", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.Font = new System.Drawing.Font("Segoe UI Symbol", 10.5F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
 			this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
 			this.Name = "GameBox";
 			this.Size = new System.Drawing.Size(1039, 504);
 			this.SizeChanged += new System.EventHandler(this.GameBoxSizeChanged);
 			this.ResumeLayout(false);
-
 		}
 	}
 }

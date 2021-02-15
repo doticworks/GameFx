@@ -16,7 +16,7 @@ namespace doticworks.GameFx.Game.Components
 	public class Component
 	{
 		public virtual void Load(ComponentModel model){
-			
+			//plz use variable model!!
 		}
 		public virtual Component Copy(){
 			throw new Exception("Undefined Component Copy Func!");

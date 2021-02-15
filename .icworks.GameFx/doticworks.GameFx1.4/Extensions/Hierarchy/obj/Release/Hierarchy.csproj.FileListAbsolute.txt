@@ -1,0 +1,15 @@
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\bin\Release\Hierarchy.ic.exe.config
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\bin\Release\Hierarchy.ic.exe
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\bin\Release\.icworks.GameFx.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\bin\Release\SharpDX.Direct2D1.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\bin\Release\SharpDX.DXGI.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\bin\Release\SharpDX.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\bin\Release\SharpDX.Direct3D11.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\bin\Release\SharpDX.DirectInput.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\bin\Release\SharpDX.DirectSound.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\obj\Release\Hierarchy.csprojResolveAssemblyReference.cache
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\obj\Release\Hierarchy.MainForm.resources
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\obj\Release\Hierarchy.tab_main.resources
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\obj\Release\Hierarchy.tab_unconnect.resources
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\obj\Release\Hierarchy.csproj.GenerateResource.Cache
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\obj\Release\Hierarchy.ic.exe

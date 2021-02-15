@@ -23,68 +23,16 @@ namespace TempKeyPad
 		public MainForm()
 		{
 			InitializeComponent();
-			Extension.ExEvent += (s) => {
-				if (s == "EVENT_GAMEWORLD_LOAD")//had better do internal thing in LOAD event
-				{
-			//		cm=Extension.Invoke_("KEYPADM", null) as ComMotion;
-			//		cm.a_friction = 200;
-				}
-			};
+			doticworks.GameFx.Module.Sound.AudioDevice.Default.Cooper(Handle);
 		}
 
 		private ComMotion cm;
 		void MainFormKeyDown(object sender, KeyEventArgs e)
 		{
-			switch (e.KeyCode)
-			{
-				case Keys.W:
-				{
-					cm.ay = -500;
-					break;
-				}
-				case Keys.A:
-				{
-					cm.ax = -500;
-					break;
-				}
-				case Keys.S:
-				{
-					cm.ay = 500;
-					break;
-				}
-				case Keys.D:
-				{
-					cm.ax = 500;
-					break;
-				}
-			}
-
 		}
 		void MainFormKeyUp(object sender, KeyEventArgs e)
 		{
-			switch (e.KeyCode)
-			{
-				case Keys.W:
-				{
-					cm.ay =0;
-					break;
-				}
-				case Keys.A:
-				{
-					cm.ax = 0;
-					break;
-				}
-				case Keys.S:
-				{
-					cm.ay =0;
-					break;
-				}
-				case Keys.D:
-				{
-					cm.ax =0;
-					break;
-				}
-			}
+			
 		}
 	}
 }

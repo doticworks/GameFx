@@ -33,3 +33,6 @@ D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\doticworks.GameFx\bin\D
 D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\doticworks.GameFx\bin\Debug\SharpDX.Mathematics.dll
 D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\doticworks.GameFx\obj\Debug\.icworks.GameFx.dll
 D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\doticworks.GameFx\obj\Debug\.icworks.GameFx.pdb
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\doticworks.GameFx\bin\Debug\NAudio.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\doticworks.GameFx\bin\Debug\SharpDX.DirectSound.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\doticworks.GameFx\bin\Debug\SharpDX.MediaFoundation.dll

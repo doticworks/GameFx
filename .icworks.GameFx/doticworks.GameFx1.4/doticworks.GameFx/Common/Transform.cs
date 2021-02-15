@@ -52,8 +52,8 @@ namespace doticworks.GameFx.Common
 			}
 		}*/
 		public Transform Overlay(Transform child){
-		X+=(float)(child.X*Math.Cos(Theta)+child.Y*Math.Sin(Theta));
-		Y+=(float)(child.Y*Math.Cos(Theta)-child.X+Math.Sin(Theta));
+		X+=(float)(child.X*Math.Cos(Theta)-child.Y*Math.Sin(Theta));
+		Y+=(float)(child.Y*Math.Cos(Theta)+child.X*Math.Sin(Theta));
 			Theta+=child.Theta;
 			//TODO sx,sy
 			return this;

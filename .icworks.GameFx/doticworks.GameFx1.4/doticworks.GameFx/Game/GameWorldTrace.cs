@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using System.Diagnostics;
 using doticworks.GameFx.Game.Components;
-
+using doticworks.GameFx.Common;
 namespace doticworks.GameFx.Game
 {
     public partial class GameWorld
@@ -12,7 +12,7 @@ namespace doticworks.GameFx.Game
             Stopwatch sw=new Stopwatch();
             while(true){
                 sw.Start();
-                inputUpdate();
+                InputUpdate();
                 if(DebugMode){
                     sw.Stop();
                     TickInput=sw.ElapsedTicks;
@@ -57,5 +57,53 @@ namespace doticworks.GameFx.Game
                 sw.Reset();
             }
         }
+    //	MouseButtons btncv(int arg){if(arg==0){return MouseButtons.Left;}if(arg==1){return MouseButtons.Right;}if(arg==2){return MouseButtons.Middle;}return MouseButtons.None;}
+    	void InputUpdate(){
+    		ia.OnUpdate(
+                mousepos:(x,y,z)=>{
+    				root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.MouseMove(new Vector2(x,y),z);});
+    			},
+             	mousebuttondown:(l,r,m)=>{/* 
+    				if(l){root.components.RI_ComNode.TreeInvoke((g)=>{g.components.RI_ComInput.MouseDown(MouseButtons.Left);});}
+    				if(r){root.components.RI_ComNode.TreeInvoke((g)=>{g.components.RI_ComInput.MouseDown(MouseButtons.Right);});}
+    				if(m){root.components.RI_ComNode.TreeInvoke((g)=>{g.components.RI_ComInput.MouseDown(MouseButtons.Middle);});}
+    			*/},
+    			mousebuttonToClick:(l,r,m)=>{
+	    			if(l){root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.MouseDown(MouseButtons.Left);});}
+	    			if(r){root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.MouseDown(MouseButtons.Right);});}
+	    			if(m){root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.MouseDown(MouseButtons.Middle);});}
+    			},
+		    	mousebuttonToRelease:(l,r,m)=>{
+	    			if(l){root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.MouseUp(MouseButtons.Left);});}
+	    			if(r){root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.MouseUp(MouseButtons.Right);});}
+	    			if(m){root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.MouseUp(MouseButtons.Middle);});}
+		    	},
+    			mousebuttonKeepHold:(l,r,m)=>{
+	    			if(l){root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.MouseHold(MouseButtons.Left);});}
+	    			if(r){root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.MouseHold(MouseButtons.Right);});}
+	    			if(m){root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.MouseHold(MouseButtons.Middle);});}
+		    	},
+                mousedoubleclick:(l,r,m)=>{
+	                if(l){root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.MouseDouble(MouseButtons.Left);});}
+	                if(r){root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.MouseDouble(MouseButtons.Right);});}
+	                if(m){root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.MouseDouble(MouseButtons.Middle);});}
+                },
+    			multicallkeydown:(keys) =>{
+    				root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.KeyDown(keys);});
+    			},
+	    		multicallkeyToClick:(keys)=>{
+	    			root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.KeyDown(keys);});
+	    		},
+				multicallkeyToRelease:(keys)=>{
+					root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.KeyUp(keys);});
+				},
+				multicallkeyKeepHold:(keys)=>{
+					root.components.RI_ComNode.TreeInvoke((g)=>{if(g.components.RI_ComInput==null){return;}g.components.RI_ComInput.KeyHold(keys);});
+    		});
+    		
+    			
+    		
+                
+    	}
     }
 }

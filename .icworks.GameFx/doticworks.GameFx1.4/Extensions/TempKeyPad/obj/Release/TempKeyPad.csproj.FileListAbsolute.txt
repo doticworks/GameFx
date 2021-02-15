@@ -1,0 +1,13 @@
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Release\TempKeyPad.ic.exe.config
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Release\TempKeyPad.ic.exe
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Release\.icworks.GameFx.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Release\SharpDX.Direct2D1.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Release\SharpDX.DXGI.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Release\SharpDX.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Release\SharpDX.Direct3D11.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Release\SharpDX.DirectInput.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Release\SharpDX.DirectSound.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\obj\Release\TempKeyPad.csprojResolveAssemblyReference.cache
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\obj\Release\TempKeyPad.MainForm.resources
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\obj\Release\TempKeyPad.csproj.GenerateResource.Cache
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\obj\Release\TempKeyPad.ic.exe

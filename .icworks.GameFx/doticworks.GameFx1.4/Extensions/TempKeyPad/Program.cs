@@ -25,6 +25,7 @@ namespace TempKeyPad
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 		//	Application.Run(new MainForm());
+		new MainForm();
 		}
 		
 	}

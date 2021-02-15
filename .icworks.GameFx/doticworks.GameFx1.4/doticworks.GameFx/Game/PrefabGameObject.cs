@@ -18,6 +18,7 @@ namespace doticworks.GameFx.Game
 	{
 		public static GameObject GetRoot(Bitmap1 swapbuffer,Func<int,int,Bitmap1> resize){
 			GameObject go=new GameObject();
+			go.Tag = "Perfab_Root";
 	     	go.components.AddComponent(new ComRooter());
 	     	go.components.AddComponent(new ComNode());
 	     	ComRenderKeyNode crkn=new ComRenderKeyNode(swapbuffer,resize);
@@ -37,6 +38,7 @@ namespace doticworks.GameFx.Game
 		
 		static Lazy<GameObject> NodeGameObject_=new Lazy<GameObject>(()=>{
 	     	GameObject go=new GameObject();
+	        go.Tag = "Perfab_Node";
 	     	go.components.AddComponent(new ComNode());
 	     	go.components.AddComponent(new ComRender());
 	     	return go;
@@ -44,10 +46,22 @@ namespace doticworks.GameFx.Game
 		
 		//
 		
-		static Lazy<GameObject> NormalGameObject_=new Lazy<GameObject>(()=>{
+		static Lazy<GameObject> DrawGameObject_=new Lazy<GameObject>(()=>{
            	GameObject go=new GameObject();
+            go.Tag = "Perfab_Draw";
          	go.components.AddComponent(new ComNode());
          	go.components.AddComponent(new ComRenderNormal());
+         	return go;
+		});public static GameObject DrawGameObject{get{return NormalGameObject_.Value.Clone();}}
+		
+		//
+		
+		static Lazy<GameObject> NormalGameObject_=new Lazy<GameObject>(()=>{
+           	GameObject go=new GameObject();
+            go.Tag = "Perfab_Normal";
+         	go.components.AddComponent(new ComNode());
+         	go.components.AddComponent(new ComRenderNormal());
+         	go.components.AddComponent(new ComInput());
          	return go;
 		});public static GameObject NormalGameObject{get{return NormalGameObject_.Value.Clone();}}
 		
@@ -55,6 +69,7 @@ namespace doticworks.GameFx.Game
 		
 		static Lazy<GameObject> Background_=new Lazy<GameObject>(()=>{
            	GameObject go=new GameObject();
+            go.Tag = "Perfab_Bg";
          	go.components.AddComponent(new ComNode());
          	ComRenderNormal crn=new ComRenderNormal();
          	crn.paint=(ir)=>{

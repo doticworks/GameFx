@@ -35,3 +35,4 @@ D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Tester\bin\Debug\.icwor
 D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Tester\bin\Debug\Hierarchy.ic.pdb
 D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Tester\bin\Debug\TempKeyPad.ic.pdb
 D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Tester\bin\Debug\SharpDX.DirectInput.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Tester\bin\Debug\SharpDX.DirectSound.dll

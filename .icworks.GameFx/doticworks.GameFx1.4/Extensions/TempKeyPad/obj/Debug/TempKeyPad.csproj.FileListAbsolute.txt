@@ -27,3 +27,4 @@ D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\o
 D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\obj\Debug\TempKeyPad.ic.exe
 D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\obj\Debug\TempKeyPad.ic.pdb
 D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\SharpDX.DirectInput.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\TempKeyPad\bin\Debug\SharpDX.DirectSound.dll

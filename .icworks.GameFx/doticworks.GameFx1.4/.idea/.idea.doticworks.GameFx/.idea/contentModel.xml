@@ -12,22 +12,27 @@
         <e p="Common" t="Include">
           <e p="Matrix.cs" t="Include" />
           <e p="Transform.cs" t="Include" />
+          <e p="TransformStack.cs" t="Include" />
           <e p="Vector2.cs" t="Include" />
         </e>
         <e p="Dll" t="Include">
           <e p="FarseerPhysics.dll" t="Include" />
+          <e p="NAudio.dll" t="Include" />
           <e p="SharpDX.Direct2D1.dll" t="Include" />
           <e p="SharpDX.Direct3D11.dll" t="Include" />
           <e p="SharpDX.DirectInput.dll" t="Include" />
+          <e p="SharpDX.DirectSound.dll" t="Include" />
           <e p="SharpDX.dll" t="Include" />
           <e p="SharpDX.DXGI.dll" t="Include" />
           <e p="SharpDX.Mathematics.dll" t="Include" />
         </e>
         <e p="doticworks.GameFx.csproj" t="IncludeRecursive" />
+        <e p="Environment.cs" t="Include" />
         <e p="Extension.cs" t="Include" />
         <e p="Game" t="Include">
           <e p="Components" t="Include">
             <e p="ComEvent.cs" t="Include" />
+            <e p="ComInput.cs" t="Include" />
             <e p="ComModelReservedInterfaces.cs" t="Include" />
             <e p="ComMotion.cs" t="Include" />
             <e p="ComNode.cs" t="Include" />
@@ -49,7 +54,6 @@
         <e p="GameBox.Designer.cs" t="Include" />
         <e p="GameBox.resx" t="Include" />
         <e p="GameFxRuntime.cs" t="Include" />
-        <e p="GFVersion.cs" t="Include" />
         <e p="Gizmos" t="Include">
           <e p="Embed.cs" t="Include" />
           <e p="GraphBehavior.cs" t="Include" />
@@ -78,7 +82,15 @@
             <e p="RenderDraw.cs" t="Include" />
             <e p="RenderTemps.cs" t="Include" />
           </e>
-          <e p="Input" t="Include" />
+          <e p="Input" t="Include">
+            <e p="comparisontable.txt" t="Include" />
+            <e p="Input.cs" t="Include" />
+            <e p="InputAnalyzer.cs" t="Include" />
+            <e p="InputState.cs" t="Include" />
+          </e>
+          <e p="Sound" t="Include">
+            <e p="AudioDevice.cs" t="Include" />
+          </e>
         </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="Properties" t="Include">

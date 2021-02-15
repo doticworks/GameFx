@@ -47,3 +47,4 @@ D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\ob
 D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\obj\Debug\Hierarchy.ic.exe
 D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\obj\Debug\Hierarchy.ic.pdb
 D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\bin\Debug\SharpDX.DirectInput.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\doticworks.GameFx1.4\Extensions\Hierarchy\bin\Debug\SharpDX.DirectSound.dll

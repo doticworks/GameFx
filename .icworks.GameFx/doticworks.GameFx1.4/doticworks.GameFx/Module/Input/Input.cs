@@ -7,6 +7,7 @@
  * 要改变这种模板请点击 工具|选项|代码编写|编辑标准头文件
  */
 using System;
+using System.Drawing;
 using System.Windows.Forms;
 using SharpDX.DirectInput;
 namespace doticworks.GameFx.Module.Input
@@ -17,9 +18,13 @@ namespace doticworks.GameFx.Module.Input
 	public class Input
 	{
 		static readonly Lazy<Input> defaultmng=new Lazy<Input>(()=>{
-		     Terminal.WF("<Y>ModuleLoad	<B>Input  	");
+		     Terminal.WF("<Y>ModuleLoad	<B>Input  		");
 		     Input gd= new Input();
 		     Terminal.WF("<G>{0}<W>\r\n","<G>Success!<w>");
+		     
+//		     Input gd= new Input();
+//		     Terminal.WF("<Y>ModuleLoad	<B>Input  	<G>Success!\r\n");
+		 //    Terminal.WF("<G>{0}<W>\r\n","<G>Success!<w>");
 		     return gd;
 		     });
 		public static Input Default{
@@ -28,7 +33,9 @@ namespace doticworks.GameFx.Module.Input
 		public InputState Current{get{
 				int x=0;int y=0;
 				if(mouseControl!=null){
-					var point=mouseControl.PointToClient(Control.MousePosition);x=point.X;y=point.Y;
+					Point point=Point.Empty;
+					mouseControl.Invoke(new MethodInvoker(() => {point=mouseControl.PointToClient(Control.MousePosition); }));
+					x=point.X;y=point.Y;
 				}
 				var ms=mouse.GetCurrentState();
 				int z=ms.Z;
@@ -51,10 +58,10 @@ namespace doticworks.GameFx.Module.Input
 		    mouse.Acquire();
 		    
 			if(mouseControl!=null){
-		    	Terminal.WF(mouseControl.PointToClient(Control.MousePosition).ToString());
+		    //	Terminal.WF(mouseControl.PointToClient(Control.MousePosition).ToString());
 			}
 		    
-		    Console.WriteLine(mouse.GetCurrentState());
+		//    Console.WriteLine(mouse.GetCurrentState());
 			
 		    
 		    keyb = new Keyboard(DI);

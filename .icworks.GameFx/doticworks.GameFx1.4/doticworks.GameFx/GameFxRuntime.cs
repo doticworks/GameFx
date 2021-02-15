@@ -17,8 +17,10 @@ namespace doticworks.GameFx
 	/// </summary>
 	public static class GameFxRuntime
 	{
-		public static void Load(){
-			Terminal.WF(".ICWORKS GameFx {1}-D3D ({2})\r\n{0}\r\n","<Y>ModuleLoad	<B>GRuntime  	<G>Success!<W>",GFVersion.FullStr,GFVersion.SimpStr);
+		public static void Load(bool isDebug=false){
+			Terminal.WF(".ICWORKS GameFx {1}-D3D ({2})\r\n{0}\r\n","<Y>ModuleLoad	<B>GRuntime  	<G>Success!<W>",GameFx.Environment.FullStr,GameFx.Environment.SimpStr);
+			if (isDebug) Environment.isDebug = true;
+
 			AppDomain.CurrentDomain.UnhandledException +=(s,e)=>{
 				try{
 				System.Threading.Thread.CurrentThread.SetApartmentState(System.Threading.ApartmentState.STA);
@@ -46,6 +48,8 @@ namespace doticworks.GameFx
 				dlldict.Add("SharpDX.DirectInput, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b4dcf0f35e5521f1","doticworks.GameFx.Dll.SharpDX.DirectInput.dll");
 				dlldict.Add("SharpDX, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b4dcf0f35e5521f1","doticworks.GameFx.Dll.SharpDX.dll");
 				dlldict.Add("SharpDX.DXGI, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b4dcf0f35e5521f1","doticworks.GameFx.Dll.SharpDX.DXGI.dll");
+				dlldict.Add("SharpDX.DirectSound, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b4dcf0f35e5521f1","doticworks.GameFx.Dll.SharpDX.DirectSound.dll");
+				dlldict.Add("SharpDX.Mathematics, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b4dcf0f35e5521f1","doticworks.GameFx.Dll.SharpDX.Mathematics.dll");
 				try{
 					
 				System.IO.Stream _temp=System.Reflection.Assembly.GetAssembly(typeof(GameFxRuntime)).GetManifestResourceStream(dlldict[e.Name]);
@@ -57,7 +61,7 @@ namespace doticworks.GameFx
 			Terminal.WF("{0}\r\n","<Y>ModuleLoad	<B>DirectBase  	<G>Success!<W>");
 			Terminal.WF("{0}","<Y>ModuleLoad	<B>Extension  	");
 			Extension.InitiativeLoad_();
-			Terminal.WF("\r\n				{0}\r\n",Extension.ExtensionLoaded==0?"<Y>NoExtension!<W>":"<Y>"+Extension.ExtensionLoaded.ToString()+"Ext <G>Loaded!<W>");
+			Terminal.WF("\r\n				{0}\r\n",Extension.ExtensionLoaded==0?"<Y>NoExtension!<W>":"<G>Loaded!<Y> Ext "+"<G>"+Extension.ExtensionLoaded.ToString());
 //			Terminal.WF("<W>.ICWORKS GameFx v1.4-D3D\r\n{0}\r\n{1}\r\n","LoadingRuntime	<G>Success!<W>",
 //			            "LoadingD3D	"+(GameFx.Module.GraphicsDevice.Default.SupportD3D?"<G>D3DSupport!<w>":"<R>D3DUnSupport(All Effect will not work)")
 //			           );

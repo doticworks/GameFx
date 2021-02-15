@@ -26,7 +26,7 @@ namespace Hierarchy
 		public tab_main()
 		{
 			InitializeComponent();
-			pointer = PrefabGameObject.NormalGameObject;
+			pointer = PrefabGameObject.DrawGameObject;
 			pointer.components.GetComponent<ComRenderNormal>().paint = (ir) =>
 			{
 				ir._Circle_Fill(0,0,15,0,1,0,0.2f);

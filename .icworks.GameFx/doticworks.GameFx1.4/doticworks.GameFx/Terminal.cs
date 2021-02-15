@@ -51,8 +51,8 @@ namespace doticworks.GameFx
 		string input="";
 		void InputTrace(){
 			ConsoleKeyInfo ck;
-			while(true){
-				ck=Console.ReadKey();
+			while(Enable){
+				try{ck=Console.ReadKey();
 //				ck=Console.ReadKey().Key;
 				if(ck.Key==ConsoleKey.Enter){
 					inputbinding(input);
@@ -60,7 +60,7 @@ namespace doticworks.GameFx
 				}else{
 					input=input+ck.KeyChar;
 				}
-				
+				}catch{break;}
 			}
 		}
 		void WF(string arg){WriteFormat(arg);}

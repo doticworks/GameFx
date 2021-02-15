@@ -1,0 +1,9 @@
+D:\TAS   MFC\GameFx\.icworks.GameFx\Template\Samples\Learn1.4#1\Learn1.4#1\bin\Debug\Learn1.4#1.exe.config
+D:\TAS   MFC\GameFx\.icworks.GameFx\Template\Samples\Learn1.4#1\Learn1.4#1\bin\Debug\Learn1.4#1.exe
+D:\TAS   MFC\GameFx\.icworks.GameFx\Template\Samples\Learn1.4#1\Learn1.4#1\bin\Debug\Learn1.4#1.pdb
+D:\TAS   MFC\GameFx\.icworks.GameFx\Template\Samples\Learn1.4#1\Learn1.4#1\bin\Debug\.icworks.GameFx.dll
+D:\TAS   MFC\GameFx\.icworks.GameFx\Template\Samples\Learn1.4#1\Learn1.4#1\obj\Debug\Learn1.4#1.csprojResolveAssemblyReference.cache
+D:\TAS   MFC\GameFx\.icworks.GameFx\Template\Samples\Learn1.4#1\Learn1.4#1\obj\Debug\Learn1.__1.MainForm.resources
+D:\TAS   MFC\GameFx\.icworks.GameFx\Template\Samples\Learn1.4#1\Learn1.4#1\obj\Debug\Learn1.4#1.csproj.GenerateResource.Cache
+D:\TAS   MFC\GameFx\.icworks.GameFx\Template\Samples\Learn1.4#1\Learn1.4#1\obj\Debug\Learn1.4#1.exe
+D:\TAS   MFC\GameFx\.icworks.GameFx\Template\Samples\Learn1.4#1\Learn1.4#1\obj\Debug\Learn1.4#1.pdb

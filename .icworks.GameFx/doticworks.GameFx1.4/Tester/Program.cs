@@ -24,7 +24,7 @@ namespace Tester
 		{
 //			Terminal.Enable=false;
 			Terminal.WF("Process start with {0}\r\n<W>Prepare to load...\r\n",args.Length==0?"<Y>no arguments":args[0]);
-			doticworks.GameFx.GameFxRuntime.Load(isDebug:true);
+			doticworks.GameFx.GameFxRuntime.Load(isDebug:true,isTerminal:false);
 			Terminal.InputBinding+=(s)=>{if(s=="CLS"){Terminal.WF("<CLS>");}};
 			Terminal.InputBinding+=(s)=>{if(s=="YYY"){Terminal.WF("<Y>eofnweoifnoseifhoiwefhoiwaejfoiwehois<W>eh"+s);}};
 			Application.EnableVisualStyles();

@@ -22,6 +22,7 @@ namespace Learn1.__1
 		[STAThread]
 		private static void Main(string[] args)
 		{
+			doticworks.GameFx.GameFxRuntime.Load(true,isTerminal:false);
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 			Application.Run(new MainForm());

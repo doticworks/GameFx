@@ -17,7 +17,8 @@ namespace doticworks.GameFx
 	/// </summary>
 	public static class GameFxRuntime
 	{
-		public static void Load(bool isDebug=false){
+		public static void Load(bool isDebug=false,bool isTerminal=false){
+			if(!isTerminal){Terminal.Enable=false;}
 			Terminal.WF(".ICWORKS GameFx {1}-D3D ({2})\r\n{0}\r\n","<Y>ModuleLoad	<B>GRuntime  	<G>Success!<W>",GameFx.Environment.FullStr,GameFx.Environment.SimpStr);
 			if (isDebug) Environment.isDebug = true;
 

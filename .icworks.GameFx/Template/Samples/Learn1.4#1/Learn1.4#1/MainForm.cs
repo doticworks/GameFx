@@ -11,6 +11,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 using doticworks.GameFx;
+using doticworks.GameFx.Module.Clock;
 namespace Learn1.__1
 {
 	/// <summary>
@@ -20,8 +21,19 @@ namespace Learn1.__1
 	{
 		public MainForm()
 		{
-			InitializeComponent();
+			//gamefx4的大概样子
+			//启动画面在窗口设计器页面对background设置 在游戏未开始前会显示
+			//启动页的背景色也可调
 			
+			InitializeComponent();
+			gamebox1.GameBoxLoad(
+				load:(world)=>{
+					new GameInit(world);//搞成个函数 好看点
+				}
+				,loaddone: () =>
+				Clocker._.TimerDelay(100, () => {//在加载结束后马上启动游戏
+				gamebox1.gameworld.StartGame();
+			}));
 		}
 	}
 }
